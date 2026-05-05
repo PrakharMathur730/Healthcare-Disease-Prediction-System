@@ -104,31 +104,35 @@ This project is an **end-to-end healthcare analytics and disease prediction syst
 
 ## 📁 Project Structure
 
-
+```
 Healthcare-Disease-Prediction-System/
 │
-├── app.py
-├── requirements.txt
+├── 🐍 app.py
+├── 📋 requirements.txt
 │
-├── dataset.csv
-├── symptom_precaution.csv
+├── 📊 Data Files
+│   ├── dataset.csv
+│   └── symptom_precaution.csv
 │
-├── model.pkl
-├── encoders.pkl
-├── disease_encoder.pkl
-├── most_common.pkl
+├── 🤖 ML Models
+│   ├── model.pkl
+│   ├── encoders.pkl
+│   ├── disease_encoder.pkl
+│   └── most_common.pkl
 │
-├── Healthcare_Analysis.ipynb
-├── healthcare_dashboard.pbix
-├── healthcare_queries.sql
+├── 📓 Analysis & Visualization
+│   ├── Healthcare_Analysis.ipynb
+│   ├── healthcare_dashboard.pbix
+│   └── healthcare_queries.sql
 │
-├── images/
-│ ├── streamlit_UI.png
-│ ├── dashboard.png
-│ ├── accuracy.png
-│ ├── confusion.png
+├── 🖼️ images/
+│   ├── streamlit_UI.png
+│   ├── dashboard.png
+│   ├── accuracy.png
+│   └── confusion.png
 │
-└── README.md
+└── 📖 README.md
+```
 
 ---
 
@@ -145,15 +149,21 @@ Healthcare-Disease-Prediction-System/
 
 ### 1️⃣ Install Dependencies
 
+```bash
 python -m pip install -r requirements.txt
+```
 
 ### 2️⃣ Run Streamlit App
 
+```bash
 streamlit run app.py
+```
 
 ### 3️⃣ Open in Browser
 
+```
 http://localhost:8501
+```
 
 ---
 
