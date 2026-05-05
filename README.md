@@ -130,7 +130,6 @@ Healthcare-Disease-Prediction-System/
 │
 └── README.md
 
-
 ---
 
 ## ⚙️ Technologies Used
