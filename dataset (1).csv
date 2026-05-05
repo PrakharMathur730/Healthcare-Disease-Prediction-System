@@ -1,0 +1,1501 @@
+Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8
+Hyperthyroidism,yellowing_of_eyes,painful_walking,anxiety,belly_pain,watering_from_eyes,swollen_legs,itching,
+Chicken pox,indigestion,cramps,bladder_discomfort,dehydration,scurring,slurred_speech,swollen_blood_vessels,nodal_skin_eruptions
+Hepatitis D,family_history,headache,stiff_neck,redness_of_eyes,dizziness,history_of_alcohol_consumption,altered_sensorium,palpitations
+Chicken pox,swollen_blood_vessels,nodal_skin_eruptions,dehydration,cramps,slurred_speech,indigestion,bladder_discomfort,scurring
+Drug Reaction,chest_pain,diarrhoea,breathlessness,cough,loss_of_smell,belly_pain,,
+Hepatitis A,depression,muscle_weakness,weight_gain,irritation_in_anus,,,,
+Hepatitis B,patches_in_throat,lethargy,dark_urine,blister,mood_swings,,,
+Cervical spondylosis,cold_hands_and_feets,polyuria,swelling_joints,congestion,pus_filled_pimples,extra_marital_contacts,,
+Tuberculosis,brittle_nails,bloody_stool,weight_loss,unsteadiness,,,,
+Paralysis (brain hemorrhage),swollen_legs,family_history,pain_behind_the_eyes,dizziness,coma,,,
+Dimorphic hemmorhoids(piles),dizziness,fatigue,anxiety,mucoid_sputum,loss_of_smell,sunken_eyes,sweating,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,vomiting,swollen_legs,,,,
+Peptic ulcer disease,toxic_look_(typhos),vomiting,swollen_legs,continuous_feel_of_urine,,,,
+Jaundice,burning_micturition,yellow_crust_ooze,cough,weakness_in_limbs,dehydration,pain_behind_the_eyes,,
+Varicose veins,restlessness,burning_micturition,dizziness,blood_in_sputum,blackheads,sunken_eyes,,
+Alcoholic hepatitis,pain_during_bowel_movements,weight_loss,anxiety,mood_swings,,,,
+Bronchial Asthma,runny_nose,swollen_blood_vessels,internal_itching,weight_loss,muscle_pain,,,
+Migraine,acidity,swelling_joints,pain_during_bowel_movements,family_history,,,,
+Diabetes,lethargy,drying_and_tingling_lips,pain_during_bowel_movements,pain_in_anal_region,,,,
+Hypoglycemia,receiving_unsterile_injections,blurred_and_distorted_vision,blister,diarrhoea,chest_pain,slurred_speech,,
+Arthritis,weight_gain,small_dents_in_nails,bloody_stool,malaise,lethargy,mood_swings,mild_fever,mucoid_sputum
+Impetigo,hip_joint_pain,history_of_alcohol_consumption,breathlessness,knee_pain,nodal_skin_eruptions,,,
+Dengue,sweating,swelling_of_stomach,knee_pain,painful_walking,itching,mild_fever,swollen_legs,
+Hepatitis B,patches_in_throat,blister,mood_swings,lethargy,dark_urine,,,
+Jaundice,yellow_crust_ooze,dehydration,weakness_in_limbs,burning_micturition,pain_behind_the_eyes,cough,,
+Common Cold,nausea,high_fever,congestion,blurred_and_distorted_vision,neck_pain,rusty_sputum,silver_like_dusting,
+Common Cold,silver_like_dusting,blurred_and_distorted_vision,nausea,high_fever,congestion,rusty_sputum,neck_pain,
+Hepatitis D,family_history,redness_of_eyes,dizziness,stiff_neck,palpitations,altered_sensorium,headache,history_of_alcohol_consumption
+Dengue,swelling_of_stomach,itching,painful_walking,sweating,mild_fever,knee_pain,swollen_legs,
+Hypertension,yellow_urine,blackheads,weakness_in_limbs,acute_liver_failure,puffy_face_and_eyes,belly_pain,neck_pain,loss_of_balance
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),vomiting,,,,
+Migraine,family_history,swelling_joints,acidity,pain_during_bowel_movements,,,,
+Hepatitis B,lethargy,blister,dark_urine,mood_swings,patches_in_throat,,,
+Alcoholic hepatitis,weight_loss,mood_swings,anxiety,pain_during_bowel_movements,,,,
+Peptic ulcer disease,continuous_feel_of_urine,swollen_legs,toxic_look_(typhos),vomiting,,,,
+Hepatitis D,stiff_neck,family_history,dizziness,history_of_alcohol_consumption,headache,redness_of_eyes,palpitations,altered_sensorium
+Allergy,acidity,receiving_unsterile_injections,breathlessness,irregular_sugar_level,stomach_pain,,,
+Varicose veins,sunken_eyes,restlessness,blood_in_sputum,dizziness,blackheads,burning_micturition,,
+Hepatitis E,chills,weakness_in_limbs,pain_during_bowel_movements,cold_hands_and_feets,loss_of_smell,,,
+AIDS,mood_swings,phlegm,red_spots_over_body,slurred_speech,lethargy,yellowish_skin,depression,
+Drug Reaction,breathlessness,belly_pain,loss_of_smell,diarrhoea,chest_pain,cough,,
+Urinary tract infection,pus_filled_pimples,nodal_skin_eruptions,weight_loss,congestion,sunken_eyes,swelling_joints,swollen_legs,
+Hepatitis E,pain_during_bowel_movements,loss_of_smell,weakness_in_limbs,chills,cold_hands_and_feets,,,
+Hypothyroidism,blister,continuous_sneezing,rusty_sputum,congestion,inflammatory_nails,bloody_stool,yellowing_of_eyes,cough
+Hypoglycemia,receiving_unsterile_injections,slurred_speech,blister,blurred_and_distorted_vision,diarrhoea,chest_pain,,
+Acne,irritation_in_anus,knee_pain,polyuria,nausea,swelling_joints,obesity,sinus_pressure,swollen_legs
+Heart attack,pain_behind_the_eyes,blurred_and_distorted_vision,prominent_veins_on_calf,receiving_unsterile_injections,swelled_lymph_nodes,,,
+Hypothyroidism,continuous_sneezing,congestion,rusty_sputum,bloody_stool,inflammatory_nails,yellowing_of_eyes,cough,blister
+Dengue,painful_walking,swollen_legs,knee_pain,mild_fever,itching,sweating,swelling_of_stomach,
+Peptic ulcer disease,toxic_look_(typhos),vomiting,swollen_legs,continuous_feel_of_urine,,,,
+Hypothyroidism,cough,bloody_stool,continuous_sneezing,rusty_sputum,inflammatory_nails,congestion,blister,yellowing_of_eyes
+Typhoid,throat_irritation,itching,red_sore_around_nose,altered_sensorium,diarrhoea,spinning_movements,shivering,yellow_urine
+Varicose veins,blackheads,blood_in_sputum,dizziness,restlessness,burning_micturition,sunken_eyes,,
+Hepatitis D,altered_sensorium,history_of_alcohol_consumption,redness_of_eyes,stiff_neck,palpitations,headache,family_history,dizziness
+Hepatitis B,mood_swings,blister,dark_urine,patches_in_throat,lethargy,,,
+Varicose veins,dizziness,blood_in_sputum,blackheads,burning_micturition,sunken_eyes,restlessness,,
+Typhoid,spinning_movements,shivering,itching,throat_irritation,red_sore_around_nose,diarrhoea,altered_sensorium,yellow_urine
+Dengue,painful_walking,sweating,swollen_legs,itching,swelling_of_stomach,knee_pain,mild_fever,
+Impetigo,nodal_skin_eruptions,hip_joint_pain,breathlessness,history_of_alcohol_consumption,knee_pain,,,
+Varicose veins,dizziness,sunken_eyes,blackheads,restlessness,burning_micturition,blood_in_sputum,,
+Chicken pox,cramps,nodal_skin_eruptions,bladder_discomfort,swollen_blood_vessels,indigestion,dehydration,scurring,slurred_speech
+Bronchial Asthma,weight_loss,swollen_blood_vessels,muscle_pain,runny_nose,internal_itching,,,
+Diabetes,drying_and_tingling_lips,pain_during_bowel_movements,lethargy,pain_in_anal_region,,,,
+Hypoglycemia,receiving_unsterile_injections,diarrhoea,blister,slurred_speech,chest_pain,blurred_and_distorted_vision,,
+Hepatitis A,muscle_weakness,weight_gain,irritation_in_anus,depression,,,,
+Paralysis (brain hemorrhage),family_history,swollen_legs,coma,dizziness,pain_behind_the_eyes,,,
+Hypertension,yellow_urine,loss_of_balance,puffy_face_and_eyes,weakness_in_limbs,acute_liver_failure,belly_pain,neck_pain,blackheads
+Dimorphic hemmorhoids(piles),sunken_eyes,dizziness,fatigue,anxiety,mucoid_sputum,loss_of_smell,sweating,
+Typhoid,altered_sensorium,shivering,red_sore_around_nose,diarrhoea,throat_irritation,yellow_urine,spinning_movements,itching
+Pneumonia,internal_itching,lack_of_concentration,receiving_unsterile_injections,stomach_bleeding,,,,
+Bronchial Asthma,swollen_blood_vessels,weight_loss,muscle_pain,internal_itching,runny_nose,,,
+Hypertension,blackheads,acute_liver_failure,neck_pain,yellow_urine,weakness_in_limbs,puffy_face_and_eyes,loss_of_balance,belly_pain
+Heart attack,blurred_and_distorted_vision,swelled_lymph_nodes,prominent_veins_on_calf,receiving_unsterile_injections,pain_behind_the_eyes,,,
+Dimorphic hemmorhoids(piles),sweating,sunken_eyes,anxiety,mucoid_sputum,dizziness,loss_of_smell,fatigue,
+Urinary tract infection,pus_filled_pimples,sunken_eyes,swollen_legs,weight_loss,congestion,swelling_joints,nodal_skin_eruptions,
+Dengue,sweating,knee_pain,itching,swollen_legs,painful_walking,mild_fever,swelling_of_stomach,
+Dengue,itching,knee_pain,mild_fever,sweating,swollen_legs,swelling_of_stomach,painful_walking,
+Hepatitis D,history_of_alcohol_consumption,palpitations,altered_sensorium,stiff_neck,redness_of_eyes,dizziness,family_history,headache
+Hypothyroidism,bloody_stool,inflammatory_nails,cough,continuous_sneezing,congestion,yellowing_of_eyes,blister,rusty_sputum
+Hepatitis B,mood_swings,patches_in_throat,lethargy,dark_urine,blister,,,
+Hyperthyroidism,belly_pain,swollen_legs,yellowing_of_eyes,itching,watering_from_eyes,anxiety,painful_walking,
+Cervical spondylosis,cold_hands_and_feets,congestion,pus_filled_pimples,extra_marital_contacts,swelling_joints,polyuria,,
+Chronic cholestasis,receiving_blood_transfusion,bladder_discomfort,mild_fever,receiving_unsterile_injections,weakness_in_limbs,skin_rash,prominent_veins_on_calf,brittle_nails
+Diabetes,drying_and_tingling_lips,pain_in_anal_region,lethargy,pain_during_bowel_movements,,,,
+Hypertension,neck_pain,yellow_urine,puffy_face_and_eyes,blackheads,weakness_in_limbs,acute_liver_failure,loss_of_balance,belly_pain
+Diabetes,drying_and_tingling_lips,lethargy,pain_during_bowel_movements,pain_in_anal_region,,,,
+Hypothyroidism,continuous_sneezing,inflammatory_nails,cough,yellowing_of_eyes,bloody_stool,blister,congestion,rusty_sputum
+Malaria,cold_hands_and_feets,mild_fever,belly_pain,receiving_unsterile_injections,abnormal_menstruation,,,
+Urinary tract infection,pus_filled_pimples,nodal_skin_eruptions,swollen_legs,swelling_joints,weight_loss,congestion,sunken_eyes,
+Hepatitis C,receiving_unsterile_injections,yellowing_of_eyes,silver_like_dusting,swollen_legs,congestion,,,
+Hepatitis A,irritation_in_anus,muscle_weakness,depression,weight_gain,,,,
+Osteoarthristis,anxiety,weight_gain,swelling_joints,burning_micturition,,,,
+Arthritis,small_dents_in_nails,mucoid_sputum,mood_swings,malaise,mild_fever,weight_gain,lethargy,bloody_stool
+Jaundice,burning_micturition,pain_behind_the_eyes,dehydration,yellow_crust_ooze,weakness_in_limbs,cough,,
+Alcoholic hepatitis,anxiety,weight_loss,pain_during_bowel_movements,mood_swings,,,,
+Hypothyroidism,yellowing_of_eyes,inflammatory_nails,congestion,bloody_stool,blister,rusty_sputum,cough,continuous_sneezing
+AIDS,lethargy,mood_swings,phlegm,red_spots_over_body,yellowish_skin,slurred_speech,depression,
+Drug Reaction,diarrhoea,chest_pain,belly_pain,cough,loss_of_smell,breathlessness,,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,vomiting,swollen_legs,,,,
+Hepatitis B,patches_in_throat,dark_urine,blister,lethargy,mood_swings,,,
+Malaria,abnormal_menstruation,mild_fever,belly_pain,receiving_unsterile_injections,cold_hands_and_feets,,,
+Pneumonia,internal_itching,lack_of_concentration,receiving_unsterile_injections,stomach_bleeding,,,,
+Dimorphic hemmorhoids(piles),loss_of_smell,dizziness,mucoid_sputum,fatigue,anxiety,sweating,sunken_eyes,
+Chronic cholestasis,mild_fever,bladder_discomfort,receiving_blood_transfusion,weakness_in_limbs,brittle_nails,receiving_unsterile_injections,prominent_veins_on_calf,skin_rash
+Vertigo,receiving_blood_transfusion,lethargy,dizziness,muscle_wasting,,,,
+Peptic ulcer disease,continuous_feel_of_urine,toxic_look_(typhos),swollen_legs,vomiting,,,,
+Hypothyroidism,rusty_sputum,continuous_sneezing,inflammatory_nails,blister,congestion,yellowing_of_eyes,cough,bloody_stool
+Heart attack,swelled_lymph_nodes,receiving_unsterile_injections,blurred_and_distorted_vision,prominent_veins_on_calf,pain_behind_the_eyes,,,
+Hepatitis D,dizziness,redness_of_eyes,stiff_neck,headache,family_history,altered_sensorium,palpitations,history_of_alcohol_consumption
+Alcoholic hepatitis,anxiety,pain_during_bowel_movements,weight_loss,mood_swings,,,,
+Alcoholic hepatitis,weight_loss,anxiety,mood_swings,pain_during_bowel_movements,,,,
+Typhoid,diarrhoea,itching,shivering,altered_sensorium,yellow_urine,spinning_movements,red_sore_around_nose,throat_irritation
+Urinary tract infection,swelling_joints,swollen_legs,sunken_eyes,weight_loss,nodal_skin_eruptions,pus_filled_pimples,congestion,
+Jaundice,burning_micturition,weakness_in_limbs,cough,yellow_crust_ooze,pain_behind_the_eyes,dehydration,,
+Impetigo,knee_pain,nodal_skin_eruptions,hip_joint_pain,breathlessness,history_of_alcohol_consumption,,,
+GERD,pain_in_anal_region,chest_pain,throat_irritation,joint_pain,,,,
+Peptic ulcer disease,toxic_look_(typhos),vomiting,continuous_feel_of_urine,swollen_legs,,,,
+Migraine,swelling_joints,family_history,pain_during_bowel_movements,acidity,,,,
+Hypoglycemia,receiving_unsterile_injections,chest_pain,blurred_and_distorted_vision,blister,diarrhoea,slurred_speech,,
+Typhoid,diarrhoea,altered_sensorium,itching,shivering,yellow_urine,throat_irritation,red_sore_around_nose,spinning_movements
+Tuberculosis,brittle_nails,weight_loss,unsteadiness,bloody_stool,,,,
+Fungal infection,enlarged_thyroid,joint_pain,fast_heart_rate,neck_pain,,,,
+Heart attack,blurred_and_distorted_vision,prominent_veins_on_calf,receiving_unsterile_injections,swelled_lymph_nodes,pain_behind_the_eyes,,,
+Impetigo,hip_joint_pain,knee_pain,breathlessness,history_of_alcohol_consumption,nodal_skin_eruptions,,,
+Varicose veins,dizziness,burning_micturition,blood_in_sputum,restlessness,sunken_eyes,blackheads,,
+Drug Reaction,diarrhoea,chest_pain,cough,loss_of_smell,breathlessness,belly_pain,,
+Diabetes,pain_in_anal_region,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,,,,
+Hepatitis A,muscle_weakness,irritation_in_anus,depression,weight_gain,,,,
+Malaria,mild_fever,cold_hands_and_feets,abnormal_menstruation,receiving_unsterile_injections,belly_pain,,,
+Hepatitis E,loss_of_smell,cold_hands_and_feets,chills,pain_during_bowel_movements,weakness_in_limbs,,,
+Common Cold,silver_like_dusting,high_fever,nausea,rusty_sputum,neck_pain,congestion,blurred_and_distorted_vision,
+Hepatitis E,chills,cold_hands_and_feets,weakness_in_limbs,pain_during_bowel_movements,loss_of_smell,,,
+Hepatitis E,weakness_in_limbs,loss_of_smell,pain_during_bowel_movements,chills,cold_hands_and_feets,,,
+Chronic cholestasis,mild_fever,bladder_discomfort,skin_rash,brittle_nails,receiving_blood_transfusion,weakness_in_limbs,prominent_veins_on_calf,receiving_unsterile_injections
+Impetigo,nodal_skin_eruptions,hip_joint_pain,knee_pain,history_of_alcohol_consumption,breathlessness,,,
+Malaria,abnormal_menstruation,cold_hands_and_feets,mild_fever,belly_pain,receiving_unsterile_injections,,,
+Acne,knee_pain,swelling_joints,swollen_legs,polyuria,sinus_pressure,obesity,nausea,irritation_in_anus
+Dengue,swelling_of_stomach,swollen_legs,mild_fever,itching,sweating,painful_walking,knee_pain,
+Allergy,receiving_unsterile_injections,acidity,stomach_pain,breathlessness,irregular_sugar_level,,,
+Acne,swollen_legs,knee_pain,irritation_in_anus,nausea,sinus_pressure,obesity,swelling_joints,polyuria
+Hypoglycemia,slurred_speech,diarrhoea,blister,blurred_and_distorted_vision,chest_pain,receiving_unsterile_injections,,
+Hyperthyroidism,painful_walking,swollen_legs,belly_pain,yellowing_of_eyes,itching,anxiety,watering_from_eyes,
+Hypoglycemia,chest_pain,blister,slurred_speech,receiving_unsterile_injections,blurred_and_distorted_vision,diarrhoea,,
+Tuberculosis,weight_loss,unsteadiness,bloody_stool,brittle_nails,,,,
+Hypothyroidism,yellowing_of_eyes,rusty_sputum,blister,cough,bloody_stool,inflammatory_nails,continuous_sneezing,congestion
+Dengue,mild_fever,swollen_legs,painful_walking,itching,knee_pain,sweating,swelling_of_stomach,
+Heart attack,prominent_veins_on_calf,pain_behind_the_eyes,blurred_and_distorted_vision,receiving_unsterile_injections,swelled_lymph_nodes,,,
+Arthritis,small_dents_in_nails,weight_gain,malaise,mood_swings,mild_fever,bloody_stool,mucoid_sputum,lethargy
+Tuberculosis,weight_loss,unsteadiness,bloody_stool,brittle_nails,,,,
+Hepatitis B,lethargy,patches_in_throat,dark_urine,blister,mood_swings,,,
+Hepatitis E,weakness_in_limbs,chills,cold_hands_and_feets,pain_during_bowel_movements,loss_of_smell,,,
+Peptic ulcer disease,swollen_legs,vomiting,continuous_feel_of_urine,toxic_look_(typhos),,,,
+Hepatitis E,pain_during_bowel_movements,weakness_in_limbs,chills,cold_hands_and_feets,loss_of_smell,,,
+Diabetes,pain_during_bowel_movements,lethargy,drying_and_tingling_lips,pain_in_anal_region,,,,
+Chronic cholestasis,weakness_in_limbs,brittle_nails,receiving_unsterile_injections,receiving_blood_transfusion,mild_fever,prominent_veins_on_calf,bladder_discomfort,skin_rash
+Bronchial Asthma,runny_nose,weight_loss,muscle_pain,internal_itching,swollen_blood_vessels,,,
+Arthritis,mucoid_sputum,bloody_stool,lethargy,mild_fever,malaise,weight_gain,small_dents_in_nails,mood_swings
+Urinary tract infection,sunken_eyes,weight_loss,pus_filled_pimples,swelling_joints,nodal_skin_eruptions,swollen_legs,congestion,
+Hepatitis A,weight_gain,depression,muscle_weakness,irritation_in_anus,,,,
+Migraine,pain_during_bowel_movements,family_history,swelling_joints,acidity,,,,
+Drug Reaction,belly_pain,breathlessness,loss_of_smell,cough,diarrhoea,chest_pain,,
+Alcoholic hepatitis,weight_loss,pain_during_bowel_movements,anxiety,mood_swings,,,,
+Hypertension,neck_pain,belly_pain,blackheads,acute_liver_failure,weakness_in_limbs,loss_of_balance,yellow_urine,puffy_face_and_eyes
+Hypertension,weakness_in_limbs,neck_pain,belly_pain,blackheads,yellow_urine,loss_of_balance,puffy_face_and_eyes,acute_liver_failure
+Hypothyroidism,inflammatory_nails,blister,rusty_sputum,continuous_sneezing,cough,bloody_stool,yellowing_of_eyes,congestion
+Diabetes,pain_during_bowel_movements,drying_and_tingling_lips,pain_in_anal_region,lethargy,,,,
+Hypoglycemia,slurred_speech,blister,blurred_and_distorted_vision,receiving_unsterile_injections,diarrhoea,chest_pain,,
+Urinary tract infection,sunken_eyes,pus_filled_pimples,congestion,nodal_skin_eruptions,weight_loss,swollen_legs,swelling_joints,
+Chicken pox,slurred_speech,cramps,dehydration,indigestion,bladder_discomfort,scurring,nodal_skin_eruptions,swollen_blood_vessels
+Migraine,swelling_joints,pain_during_bowel_movements,family_history,acidity,,,,
+Hyperthyroidism,painful_walking,itching,yellowing_of_eyes,anxiety,belly_pain,swollen_legs,watering_from_eyes,
+Pneumonia,receiving_unsterile_injections,lack_of_concentration,internal_itching,stomach_bleeding,,,,
+Hepatitis B,lethargy,patches_in_throat,blister,mood_swings,dark_urine,,,
+Impetigo,breathlessness,hip_joint_pain,history_of_alcohol_consumption,nodal_skin_eruptions,knee_pain,,,
+Allergy,breathlessness,acidity,stomach_pain,irregular_sugar_level,receiving_unsterile_injections,,,
+Hepatitis E,loss_of_smell,chills,weakness_in_limbs,pain_during_bowel_movements,cold_hands_and_feets,,,
+Pneumonia,internal_itching,stomach_bleeding,receiving_unsterile_injections,lack_of_concentration,,,,
+Tuberculosis,unsteadiness,weight_loss,brittle_nails,bloody_stool,,,,
+Jaundice,burning_micturition,cough,dehydration,weakness_in_limbs,pain_behind_the_eyes,yellow_crust_ooze,,
+Hypoglycemia,blurred_and_distorted_vision,receiving_unsterile_injections,chest_pain,diarrhoea,blister,slurred_speech,,
+Malaria,cold_hands_and_feets,belly_pain,abnormal_menstruation,receiving_unsterile_injections,mild_fever,,,
+Migraine,family_history,pain_during_bowel_movements,swelling_joints,acidity,,,,
+Migraine,pain_during_bowel_movements,swelling_joints,acidity,family_history,,,,
+Vertigo,dizziness,muscle_wasting,receiving_blood_transfusion,lethargy,,,,
+Bronchial Asthma,weight_loss,runny_nose,internal_itching,muscle_pain,swollen_blood_vessels,,,
+Impetigo,hip_joint_pain,history_of_alcohol_consumption,knee_pain,breathlessness,nodal_skin_eruptions,,,
+Hepatitis D,headache,dizziness,history_of_alcohol_consumption,redness_of_eyes,palpitations,altered_sensorium,family_history,stiff_neck
+Typhoid,altered_sensorium,red_sore_around_nose,shivering,yellow_urine,itching,throat_irritation,spinning_movements,diarrhoea
+Dimorphic hemmorhoids(piles),fatigue,sweating,mucoid_sputum,anxiety,sunken_eyes,loss_of_smell,dizziness,
+Hyperthyroidism,belly_pain,watering_from_eyes,painful_walking,swollen_legs,itching,anxiety,yellowing_of_eyes,
+Hyperthyroidism,watering_from_eyes,itching,belly_pain,painful_walking,anxiety,yellowing_of_eyes,swollen_legs,
+Dimorphic hemmorhoids(piles),fatigue,anxiety,mucoid_sputum,sunken_eyes,sweating,dizziness,loss_of_smell,
+Typhoid,shivering,diarrhoea,spinning_movements,throat_irritation,itching,altered_sensorium,yellow_urine,red_sore_around_nose
+Drug Reaction,cough,belly_pain,chest_pain,breathlessness,diarrhoea,loss_of_smell,,
+Urinary tract infection,congestion,pus_filled_pimples,sunken_eyes,swelling_joints,nodal_skin_eruptions,weight_loss,swollen_legs,
+Hepatitis D,dizziness,redness_of_eyes,family_history,stiff_neck,altered_sensorium,headache,palpitations,history_of_alcohol_consumption
+Hepatitis A,depression,muscle_weakness,irritation_in_anus,weight_gain,,,,
+Gastroenteritis,irritability,brittle_nails,painful_walking,belly_pain,,,,
+Hyperthyroidism,yellowing_of_eyes,itching,swollen_legs,watering_from_eyes,painful_walking,anxiety,belly_pain,
+Hepatitis C,congestion,swollen_legs,silver_like_dusting,yellowing_of_eyes,receiving_unsterile_injections,,,
+Bronchial Asthma,internal_itching,swollen_blood_vessels,weight_loss,runny_nose,muscle_pain,,,
+Hepatitis C,silver_like_dusting,receiving_unsterile_injections,swollen_legs,yellowing_of_eyes,congestion,,,
+Bronchial Asthma,swollen_blood_vessels,muscle_pain,runny_nose,weight_loss,internal_itching,,,
+Dimorphic hemmorhoids(piles),dizziness,loss_of_smell,sweating,sunken_eyes,anxiety,mucoid_sputum,fatigue,
+Dimorphic hemmorhoids(piles),mucoid_sputum,fatigue,sweating,anxiety,dizziness,loss_of_smell,sunken_eyes,
+Hepatitis E,cold_hands_and_feets,chills,loss_of_smell,pain_during_bowel_movements,weakness_in_limbs,,,
+Alcoholic hepatitis,anxiety,pain_during_bowel_movements,weight_loss,mood_swings,,,,
+Urinary tract infection,congestion,sunken_eyes,swollen_legs,pus_filled_pimples,swelling_joints,nodal_skin_eruptions,weight_loss,
+Hypoglycemia,slurred_speech,blister,blurred_and_distorted_vision,chest_pain,diarrhoea,receiving_unsterile_injections,,
+Dimorphic hemmorhoids(piles),anxiety,sweating,dizziness,fatigue,mucoid_sputum,sunken_eyes,loss_of_smell,
+Hepatitis D,history_of_alcohol_consumption,stiff_neck,palpitations,family_history,headache,dizziness,altered_sensorium,redness_of_eyes
+Peptic ulcer disease,continuous_feel_of_urine,vomiting,toxic_look_(typhos),swollen_legs,,,,
+Hepatitis B,patches_in_throat,mood_swings,dark_urine,blister,lethargy,,,
+GERD,throat_irritation,chest_pain,pain_in_anal_region,joint_pain,,,,
+Varicose veins,dizziness,restlessness,burning_micturition,blackheads,sunken_eyes,blood_in_sputum,,
+Chicken pox,nodal_skin_eruptions,bladder_discomfort,scurring,slurred_speech,swollen_blood_vessels,cramps,dehydration,indigestion
+Malaria,receiving_unsterile_injections,belly_pain,abnormal_menstruation,mild_fever,cold_hands_and_feets,,,
+Common Cold,silver_like_dusting,nausea,high_fever,congestion,neck_pain,rusty_sputum,blurred_and_distorted_vision,
+Urinary tract infection,pus_filled_pimples,congestion,nodal_skin_eruptions,weight_loss,swollen_legs,swelling_joints,sunken_eyes,
+Typhoid,shivering,yellow_urine,spinning_movements,diarrhoea,altered_sensorium,itching,throat_irritation,red_sore_around_nose
+Migraine,family_history,acidity,swelling_joints,pain_during_bowel_movements,,,,
+Drug Reaction,breathlessness,loss_of_smell,chest_pain,diarrhoea,belly_pain,cough,,
+GERD,chest_pain,joint_pain,pain_in_anal_region,throat_irritation,,,,
+Allergy,stomach_pain,acidity,irregular_sugar_level,breathlessness,receiving_unsterile_injections,,,
+Impetigo,hip_joint_pain,knee_pain,breathlessness,nodal_skin_eruptions,history_of_alcohol_consumption,,,
+Hepatitis D,redness_of_eyes,history_of_alcohol_consumption,family_history,altered_sensorium,stiff_neck,dizziness,headache,palpitations
+Impetigo,nodal_skin_eruptions,knee_pain,history_of_alcohol_consumption,breathlessness,hip_joint_pain,,,
+GERD,pain_in_anal_region,throat_irritation,chest_pain,joint_pain,,,,
+Cervical spondylosis,pus_filled_pimples,congestion,extra_marital_contacts,polyuria,swelling_joints,cold_hands_and_feets,,
+Osteoarthristis,weight_gain,anxiety,swelling_joints,burning_micturition,,,,
+Cervical spondylosis,extra_marital_contacts,congestion,polyuria,cold_hands_and_feets,pus_filled_pimples,swelling_joints,,
+Dengue,knee_pain,painful_walking,sweating,swelling_of_stomach,swollen_legs,itching,mild_fever,
+Alcoholic hepatitis,mood_swings,anxiety,weight_loss,pain_during_bowel_movements,,,,
+Hypothyroidism,yellowing_of_eyes,cough,congestion,continuous_sneezing,bloody_stool,rusty_sputum,inflammatory_nails,blister
+Peptic ulcer disease,continuous_feel_of_urine,toxic_look_(typhos),swollen_legs,vomiting,,,,
+Osteoarthristis,burning_micturition,anxiety,swelling_joints,weight_gain,,,,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,vomiting,swollen_legs,,,,
+Hepatitis A,depression,muscle_weakness,irritation_in_anus,weight_gain,,,,
+Hypertension,belly_pain,neck_pain,puffy_face_and_eyes,weakness_in_limbs,acute_liver_failure,blackheads,yellow_urine,loss_of_balance
+Dengue,itching,swelling_of_stomach,painful_walking,swollen_legs,knee_pain,mild_fever,sweating,
+Allergy,stomach_pain,receiving_unsterile_injections,breathlessness,acidity,irregular_sugar_level,,,
+Drug Reaction,breathlessness,diarrhoea,belly_pain,cough,loss_of_smell,chest_pain,,
+Urinary tract infection,swelling_joints,sunken_eyes,swollen_legs,nodal_skin_eruptions,pus_filled_pimples,congestion,weight_loss,
+Drug Reaction,diarrhoea,breathlessness,belly_pain,loss_of_smell,chest_pain,cough,,
+Dengue,swelling_of_stomach,itching,swollen_legs,knee_pain,sweating,mild_fever,painful_walking,
+Arthritis,small_dents_in_nails,malaise,mood_swings,mucoid_sputum,lethargy,bloody_stool,weight_gain,mild_fever
+Hypothyroidism,bloody_stool,blister,rusty_sputum,congestion,inflammatory_nails,cough,continuous_sneezing,yellowing_of_eyes
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,vomiting,swollen_legs,,,,
+Drug Reaction,breathlessness,diarrhoea,chest_pain,loss_of_smell,belly_pain,cough,,
+Impetigo,breathlessness,history_of_alcohol_consumption,knee_pain,nodal_skin_eruptions,hip_joint_pain,,,
+Diabetes,pain_in_anal_region,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,,,,
+Hypothyroidism,yellowing_of_eyes,congestion,cough,inflammatory_nails,blister,rusty_sputum,bloody_stool,continuous_sneezing
+Psoriasis,muscle_pain,neck_pain,mood_swings,swollen_extremeties,passage_of_gases,,,
+Varicose veins,dizziness,blackheads,restlessness,burning_micturition,blood_in_sputum,sunken_eyes,,
+Gastroenteritis,brittle_nails,belly_pain,irritability,painful_walking,,,,
+Dimorphic hemmorhoids(piles),sunken_eyes,dizziness,fatigue,anxiety,loss_of_smell,sweating,mucoid_sputum,
+Gastroenteritis,brittle_nails,belly_pain,painful_walking,irritability,,,,
+Diabetes,lethargy,pain_during_bowel_movements,pain_in_anal_region,drying_and_tingling_lips,,,,
+Hypertension,blackheads,weakness_in_limbs,acute_liver_failure,belly_pain,yellow_urine,neck_pain,loss_of_balance,puffy_face_and_eyes
+Cervical spondylosis,extra_marital_contacts,congestion,cold_hands_and_feets,swelling_joints,polyuria,pus_filled_pimples,,
+Psoriasis,mood_swings,muscle_pain,neck_pain,passage_of_gases,swollen_extremeties,,,
+Acne,nausea,swelling_joints,irritation_in_anus,knee_pain,swollen_legs,polyuria,obesity,sinus_pressure
+Allergy,acidity,irregular_sugar_level,receiving_unsterile_injections,stomach_pain,breathlessness,,,
+Paralysis (brain hemorrhage),pain_behind_the_eyes,swollen_legs,dizziness,coma,family_history,,,
+Hypothyroidism,continuous_sneezing,congestion,inflammatory_nails,cough,yellowing_of_eyes,bloody_stool,blister,rusty_sputum
+Hepatitis A,muscle_weakness,irritation_in_anus,depression,weight_gain,,,,
+Hypertension,yellow_urine,acute_liver_failure,belly_pain,neck_pain,puffy_face_and_eyes,weakness_in_limbs,blackheads,loss_of_balance
+Hepatitis B,mood_swings,lethargy,patches_in_throat,dark_urine,blister,,,
+Hepatitis E,chills,pain_during_bowel_movements,loss_of_smell,cold_hands_and_feets,weakness_in_limbs,,,
+Heart attack,receiving_unsterile_injections,swelled_lymph_nodes,prominent_veins_on_calf,pain_behind_the_eyes,blurred_and_distorted_vision,,,
+Bronchial Asthma,swollen_blood_vessels,runny_nose,internal_itching,weight_loss,muscle_pain,,,
+Psoriasis,neck_pain,swollen_extremeties,passage_of_gases,mood_swings,muscle_pain,,,
+Vertigo,muscle_wasting,receiving_blood_transfusion,dizziness,lethargy,,,,
+Hypothyroidism,blister,cough,rusty_sputum,continuous_sneezing,inflammatory_nails,bloody_stool,yellowing_of_eyes,congestion
+Hyperthyroidism,watering_from_eyes,painful_walking,anxiety,belly_pain,swollen_legs,yellowing_of_eyes,itching,
+Typhoid,diarrhoea,throat_irritation,red_sore_around_nose,altered_sensorium,yellow_urine,spinning_movements,itching,shivering
+AIDS,yellowish_skin,mood_swings,phlegm,depression,lethargy,red_spots_over_body,slurred_speech,
+GERD,pain_in_anal_region,joint_pain,chest_pain,throat_irritation,,,,
+Hepatitis E,pain_during_bowel_movements,loss_of_smell,cold_hands_and_feets,chills,weakness_in_limbs,,,
+Hyperthyroidism,yellowing_of_eyes,swollen_legs,painful_walking,anxiety,belly_pain,watering_from_eyes,itching,
+Tuberculosis,unsteadiness,brittle_nails,weight_loss,bloody_stool,,,,
+Bronchial Asthma,weight_loss,muscle_pain,runny_nose,swollen_blood_vessels,internal_itching,,,
+GERD,joint_pain,pain_in_anal_region,throat_irritation,chest_pain,,,,
+Varicose veins,burning_micturition,blackheads,restlessness,dizziness,blood_in_sputum,sunken_eyes,,
+Hepatitis B,mood_swings,patches_in_throat,lethargy,blister,dark_urine,,,
+Psoriasis,passage_of_gases,mood_swings,muscle_pain,swollen_extremeties,neck_pain,,,
+Vertigo,receiving_blood_transfusion,dizziness,muscle_wasting,lethargy,,,,
+Hepatitis E,pain_during_bowel_movements,weakness_in_limbs,loss_of_smell,cold_hands_and_feets,chills,,,
+Impetigo,nodal_skin_eruptions,breathlessness,hip_joint_pain,knee_pain,history_of_alcohol_consumption,,,
+Chronic cholestasis,receiving_unsterile_injections,prominent_veins_on_calf,receiving_blood_transfusion,brittle_nails,mild_fever,skin_rash,weakness_in_limbs,bladder_discomfort
+GERD,pain_in_anal_region,joint_pain,throat_irritation,chest_pain,,,,
+Dimorphic hemmorhoids(piles),loss_of_smell,fatigue,dizziness,sweating,sunken_eyes,mucoid_sputum,anxiety,
+Common Cold,nausea,blurred_and_distorted_vision,silver_like_dusting,congestion,neck_pain,high_fever,rusty_sputum,
+Hypoglycemia,receiving_unsterile_injections,chest_pain,blurred_and_distorted_vision,diarrhoea,slurred_speech,blister,,
+Hypoglycemia,receiving_unsterile_injections,slurred_speech,chest_pain,blister,diarrhoea,blurred_and_distorted_vision,,
+Osteoarthristis,anxiety,swelling_joints,burning_micturition,weight_gain,,,,
+Psoriasis,neck_pain,swollen_extremeties,passage_of_gases,mood_swings,muscle_pain,,,
+Arthritis,small_dents_in_nails,lethargy,mucoid_sputum,bloody_stool,mood_swings,weight_gain,mild_fever,malaise
+Hepatitis B,lethargy,patches_in_throat,dark_urine,blister,mood_swings,,,
+Typhoid,throat_irritation,altered_sensorium,shivering,yellow_urine,red_sore_around_nose,spinning_movements,itching,diarrhoea
+Bronchial Asthma,weight_loss,swollen_blood_vessels,internal_itching,muscle_pain,runny_nose,,,
+Hepatitis D,headache,history_of_alcohol_consumption,redness_of_eyes,stiff_neck,altered_sensorium,family_history,palpitations,dizziness
+Arthritis,lethargy,weight_gain,mood_swings,bloody_stool,mucoid_sputum,small_dents_in_nails,mild_fever,malaise
+Hypoglycemia,diarrhoea,slurred_speech,blurred_and_distorted_vision,receiving_unsterile_injections,chest_pain,blister,,
+Hepatitis C,yellowing_of_eyes,congestion,swollen_legs,silver_like_dusting,receiving_unsterile_injections,,,
+Fungal infection,joint_pain,neck_pain,fast_heart_rate,enlarged_thyroid,,,,
+Varicose veins,blackheads,blood_in_sputum,sunken_eyes,restlessness,dizziness,burning_micturition,,
+Chronic cholestasis,prominent_veins_on_calf,receiving_unsterile_injections,brittle_nails,receiving_blood_transfusion,bladder_discomfort,skin_rash,mild_fever,weakness_in_limbs
+Migraine,family_history,swelling_joints,acidity,pain_during_bowel_movements,,,,
+Migraine,acidity,family_history,pain_during_bowel_movements,swelling_joints,,,,
+Hepatitis A,weight_gain,irritation_in_anus,muscle_weakness,depression,,,,
+Heart attack,pain_behind_the_eyes,prominent_veins_on_calf,blurred_and_distorted_vision,receiving_unsterile_injections,swelled_lymph_nodes,,,
+Dengue,sweating,swollen_legs,swelling_of_stomach,knee_pain,itching,mild_fever,painful_walking,
+Chicken pox,cramps,dehydration,indigestion,swollen_blood_vessels,slurred_speech,bladder_discomfort,scurring,nodal_skin_eruptions
+Migraine,pain_during_bowel_movements,swelling_joints,acidity,family_history,,,,
+Peptic ulcer disease,continuous_feel_of_urine,toxic_look_(typhos),swollen_legs,vomiting,,,,
+Migraine,pain_during_bowel_movements,swelling_joints,family_history,acidity,,,,
+Malaria,abnormal_menstruation,belly_pain,receiving_unsterile_injections,cold_hands_and_feets,mild_fever,,,
+Dimorphic hemmorhoids(piles),sunken_eyes,fatigue,mucoid_sputum,loss_of_smell,sweating,anxiety,dizziness,
+Chicken pox,indigestion,nodal_skin_eruptions,dehydration,swollen_blood_vessels,scurring,cramps,slurred_speech,bladder_discomfort
+Hypertension,blackheads,neck_pain,loss_of_balance,acute_liver_failure,yellow_urine,belly_pain,puffy_face_and_eyes,weakness_in_limbs
+Hepatitis E,pain_during_bowel_movements,chills,cold_hands_and_feets,loss_of_smell,weakness_in_limbs,,,
+Varicose veins,blackheads,sunken_eyes,burning_micturition,restlessness,blood_in_sputum,dizziness,,
+Osteoarthristis,burning_micturition,weight_gain,anxiety,swelling_joints,,,,
+Hypoglycemia,blister,chest_pain,receiving_unsterile_injections,diarrhoea,slurred_speech,blurred_and_distorted_vision,,
+Chronic cholestasis,receiving_blood_transfusion,prominent_veins_on_calf,bladder_discomfort,mild_fever,weakness_in_limbs,receiving_unsterile_injections,skin_rash,brittle_nails
+Diabetes,pain_during_bowel_movements,pain_in_anal_region,lethargy,drying_and_tingling_lips,,,,
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),vomiting,,,,
+Gastroenteritis,painful_walking,belly_pain,brittle_nails,irritability,,,,
+Arthritis,bloody_stool,malaise,mild_fever,lethargy,small_dents_in_nails,weight_gain,mood_swings,mucoid_sputum
+Paralysis (brain hemorrhage),dizziness,pain_behind_the_eyes,coma,swollen_legs,family_history,,,
+Hepatitis D,family_history,dizziness,headache,altered_sensorium,palpitations,redness_of_eyes,history_of_alcohol_consumption,stiff_neck
+Common Cold,congestion,rusty_sputum,blurred_and_distorted_vision,silver_like_dusting,neck_pain,high_fever,nausea,
+Alcoholic hepatitis,anxiety,pain_during_bowel_movements,weight_loss,mood_swings,,,,
+Hepatitis D,palpitations,redness_of_eyes,family_history,headache,altered_sensorium,history_of_alcohol_consumption,dizziness,stiff_neck
+Fungal infection,fast_heart_rate,neck_pain,enlarged_thyroid,joint_pain,,,,
+Osteoarthristis,anxiety,swelling_joints,weight_gain,burning_micturition,,,,
+Jaundice,burning_micturition,dehydration,weakness_in_limbs,yellow_crust_ooze,cough,pain_behind_the_eyes,,
+Cervical spondylosis,extra_marital_contacts,congestion,swelling_joints,polyuria,cold_hands_and_feets,pus_filled_pimples,,
+Psoriasis,muscle_pain,neck_pain,swollen_extremeties,mood_swings,passage_of_gases,,,
+AIDS,red_spots_over_body,lethargy,mood_swings,phlegm,slurred_speech,yellowish_skin,depression,
+Tuberculosis,weight_loss,bloody_stool,unsteadiness,brittle_nails,,,,
+Chronic cholestasis,receiving_blood_transfusion,receiving_unsterile_injections,brittle_nails,mild_fever,weakness_in_limbs,bladder_discomfort,skin_rash,prominent_veins_on_calf
+Malaria,abnormal_menstruation,mild_fever,belly_pain,receiving_unsterile_injections,cold_hands_and_feets,,,
+Common Cold,rusty_sputum,neck_pain,blurred_and_distorted_vision,nausea,congestion,high_fever,silver_like_dusting,
+Arthritis,bloody_stool,mild_fever,malaise,mood_swings,lethargy,weight_gain,small_dents_in_nails,mucoid_sputum
+Common Cold,congestion,rusty_sputum,blurred_and_distorted_vision,high_fever,neck_pain,silver_like_dusting,nausea,
+Malaria,belly_pain,mild_fever,abnormal_menstruation,cold_hands_and_feets,receiving_unsterile_injections,,,
+Heart attack,pain_behind_the_eyes,swelled_lymph_nodes,prominent_veins_on_calf,receiving_unsterile_injections,blurred_and_distorted_vision,,,
+Alcoholic hepatitis,pain_during_bowel_movements,weight_loss,mood_swings,anxiety,,,,
+Hepatitis C,swollen_legs,congestion,yellowing_of_eyes,receiving_unsterile_injections,silver_like_dusting,,,
+Osteoarthristis,weight_gain,burning_micturition,anxiety,swelling_joints,,,,
+Alcoholic hepatitis,anxiety,pain_during_bowel_movements,mood_swings,weight_loss,,,,
+Acne,polyuria,nausea,swelling_joints,swollen_legs,sinus_pressure,obesity,knee_pain,irritation_in_anus
+Cervical spondylosis,congestion,swelling_joints,polyuria,extra_marital_contacts,cold_hands_and_feets,pus_filled_pimples,,
+Tuberculosis,unsteadiness,brittle_nails,bloody_stool,weight_loss,,,,
+Typhoid,throat_irritation,shivering,diarrhoea,spinning_movements,altered_sensorium,itching,yellow_urine,red_sore_around_nose
+Hyperthyroidism,belly_pain,watering_from_eyes,yellowing_of_eyes,swollen_legs,anxiety,painful_walking,itching,
+Hepatitis E,loss_of_smell,weakness_in_limbs,cold_hands_and_feets,pain_during_bowel_movements,chills,,,
+Bronchial Asthma,weight_loss,internal_itching,swollen_blood_vessels,runny_nose,muscle_pain,,,
+Typhoid,itching,throat_irritation,spinning_movements,yellow_urine,red_sore_around_nose,shivering,diarrhoea,altered_sensorium
+Hypothyroidism,inflammatory_nails,cough,continuous_sneezing,rusty_sputum,congestion,yellowing_of_eyes,bloody_stool,blister
+Hypertension,weakness_in_limbs,acute_liver_failure,loss_of_balance,neck_pain,blackheads,belly_pain,puffy_face_and_eyes,yellow_urine
+Hypoglycemia,diarrhoea,blister,blurred_and_distorted_vision,slurred_speech,chest_pain,receiving_unsterile_injections,,
+Gastroenteritis,irritability,painful_walking,belly_pain,brittle_nails,,,,
+Fungal infection,joint_pain,fast_heart_rate,neck_pain,enlarged_thyroid,,,,
+Hepatitis E,weakness_in_limbs,loss_of_smell,chills,pain_during_bowel_movements,cold_hands_and_feets,,,
+Allergy,irregular_sugar_level,receiving_unsterile_injections,stomach_pain,acidity,breathlessness,,,
+Hypoglycemia,blurred_and_distorted_vision,blister,receiving_unsterile_injections,slurred_speech,diarrhoea,chest_pain,,
+Migraine,acidity,swelling_joints,family_history,pain_during_bowel_movements,,,,
+Malaria,mild_fever,abnormal_menstruation,belly_pain,cold_hands_and_feets,receiving_unsterile_injections,,,
+Tuberculosis,brittle_nails,bloody_stool,weight_loss,unsteadiness,,,,
+Heart attack,receiving_unsterile_injections,blurred_and_distorted_vision,pain_behind_the_eyes,prominent_veins_on_calf,swelled_lymph_nodes,,,
+Hepatitis A,muscle_weakness,weight_gain,irritation_in_anus,depression,,,,
+Peptic ulcer disease,toxic_look_(typhos),swollen_legs,continuous_feel_of_urine,vomiting,,,,
+Arthritis,weight_gain,lethargy,malaise,mild_fever,bloody_stool,mood_swings,small_dents_in_nails,mucoid_sputum
+Pneumonia,internal_itching,stomach_bleeding,lack_of_concentration,receiving_unsterile_injections,,,,
+Hypoglycemia,chest_pain,blurred_and_distorted_vision,diarrhoea,slurred_speech,blister,receiving_unsterile_injections,,
+Dengue,swelling_of_stomach,painful_walking,swollen_legs,sweating,itching,knee_pain,mild_fever,
+Allergy,breathlessness,acidity,receiving_unsterile_injections,stomach_pain,irregular_sugar_level,,,
+Drug Reaction,diarrhoea,breathlessness,belly_pain,cough,chest_pain,loss_of_smell,,
+Osteoarthristis,burning_micturition,anxiety,swelling_joints,weight_gain,,,,
+Peptic ulcer disease,continuous_feel_of_urine,vomiting,toxic_look_(typhos),swollen_legs,,,,
+Pneumonia,receiving_unsterile_injections,lack_of_concentration,stomach_bleeding,internal_itching,,,,
+Urinary tract infection,nodal_skin_eruptions,swelling_joints,weight_loss,pus_filled_pimples,congestion,sunken_eyes,swollen_legs,
+Impetigo,breathlessness,history_of_alcohol_consumption,hip_joint_pain,knee_pain,nodal_skin_eruptions,,,
+Hepatitis D,family_history,palpitations,redness_of_eyes,dizziness,history_of_alcohol_consumption,stiff_neck,altered_sensorium,headache
+Malaria,cold_hands_and_feets,abnormal_menstruation,receiving_unsterile_injections,belly_pain,mild_fever,,,
+Alcoholic hepatitis,weight_loss,mood_swings,pain_during_bowel_movements,anxiety,,,,
+Hepatitis B,patches_in_throat,dark_urine,mood_swings,lethargy,blister,,,
+Hepatitis A,depression,irritation_in_anus,muscle_weakness,weight_gain,,,,
+AIDS,phlegm,lethargy,depression,slurred_speech,mood_swings,yellowish_skin,red_spots_over_body,
+AIDS,slurred_speech,red_spots_over_body,depression,phlegm,lethargy,mood_swings,yellowish_skin,
+Alcoholic hepatitis,mood_swings,pain_during_bowel_movements,anxiety,weight_loss,,,,
+Alcoholic hepatitis,anxiety,mood_swings,pain_during_bowel_movements,weight_loss,,,,
+Vertigo,dizziness,receiving_blood_transfusion,lethargy,muscle_wasting,,,,
+Hypertension,neck_pain,belly_pain,acute_liver_failure,blackheads,puffy_face_and_eyes,weakness_in_limbs,loss_of_balance,yellow_urine
+Hypertension,belly_pain,neck_pain,acute_liver_failure,puffy_face_and_eyes,loss_of_balance,blackheads,yellow_urine,weakness_in_limbs
+Chicken pox,nodal_skin_eruptions,scurring,swollen_blood_vessels,cramps,slurred_speech,dehydration,bladder_discomfort,indigestion
+Gastroenteritis,irritability,brittle_nails,belly_pain,painful_walking,,,,
+Hepatitis C,silver_like_dusting,swollen_legs,yellowing_of_eyes,receiving_unsterile_injections,congestion,,,
+Hepatitis C,silver_like_dusting,swollen_legs,congestion,yellowing_of_eyes,receiving_unsterile_injections,,,
+Urinary tract infection,sunken_eyes,swollen_legs,swelling_joints,nodal_skin_eruptions,pus_filled_pimples,weight_loss,congestion,
+Hepatitis B,patches_in_throat,lethargy,dark_urine,mood_swings,blister,,,
+Hepatitis B,lethargy,dark_urine,patches_in_throat,blister,mood_swings,,,
+Diabetes,pain_in_anal_region,pain_during_bowel_movements,lethargy,drying_and_tingling_lips,,,,
+Arthritis,weight_gain,mucoid_sputum,malaise,bloody_stool,mild_fever,lethargy,mood_swings,small_dents_in_nails
+Common Cold,high_fever,rusty_sputum,congestion,silver_like_dusting,nausea,neck_pain,blurred_and_distorted_vision,
+Bronchial Asthma,runny_nose,internal_itching,muscle_pain,weight_loss,swollen_blood_vessels,,,
+Urinary tract infection,weight_loss,swelling_joints,nodal_skin_eruptions,congestion,swollen_legs,sunken_eyes,pus_filled_pimples,
+Hepatitis E,loss_of_smell,chills,pain_during_bowel_movements,cold_hands_and_feets,weakness_in_limbs,,,
+Hepatitis D,headache,dizziness,stiff_neck,altered_sensorium,redness_of_eyes,history_of_alcohol_consumption,palpitations,family_history
+AIDS,slurred_speech,phlegm,depression,red_spots_over_body,lethargy,mood_swings,yellowish_skin,
+Dimorphic hemmorhoids(piles),dizziness,fatigue,loss_of_smell,sunken_eyes,sweating,mucoid_sputum,anxiety,
+Varicose veins,dizziness,sunken_eyes,burning_micturition,blood_in_sputum,restlessness,blackheads,,
+Bronchial Asthma,muscle_pain,swollen_blood_vessels,internal_itching,weight_loss,runny_nose,,,
+Paralysis (brain hemorrhage),swollen_legs,dizziness,pain_behind_the_eyes,coma,family_history,,,
+AIDS,depression,red_spots_over_body,yellowish_skin,lethargy,mood_swings,phlegm,slurred_speech,
+GERD,joint_pain,pain_in_anal_region,throat_irritation,chest_pain,,,,
+AIDS,slurred_speech,yellowish_skin,lethargy,depression,mood_swings,red_spots_over_body,phlegm,
+Hepatitis C,swollen_legs,silver_like_dusting,yellowing_of_eyes,receiving_unsterile_injections,congestion,,,
+Tuberculosis,bloody_stool,brittle_nails,unsteadiness,weight_loss,,,,
+Tuberculosis,weight_loss,brittle_nails,bloody_stool,unsteadiness,,,,
+Dimorphic hemmorhoids(piles),sunken_eyes,dizziness,anxiety,fatigue,sweating,mucoid_sputum,loss_of_smell,
+Paralysis (brain hemorrhage),pain_behind_the_eyes,coma,family_history,swollen_legs,dizziness,,,
+Osteoarthristis,anxiety,weight_gain,burning_micturition,swelling_joints,,,,
+Cervical spondylosis,polyuria,congestion,pus_filled_pimples,swelling_joints,cold_hands_and_feets,extra_marital_contacts,,
+Hypoglycemia,receiving_unsterile_injections,blister,slurred_speech,blurred_and_distorted_vision,diarrhoea,chest_pain,,
+Acne,swelling_joints,swollen_legs,polyuria,knee_pain,irritation_in_anus,nausea,sinus_pressure,obesity
+Psoriasis,mood_swings,muscle_pain,neck_pain,passage_of_gases,swollen_extremeties,,,
+Hepatitis B,blister,dark_urine,mood_swings,patches_in_throat,lethargy,,,
+Migraine,acidity,pain_during_bowel_movements,family_history,swelling_joints,,,,
+Hyperthyroidism,anxiety,swollen_legs,belly_pain,yellowing_of_eyes,watering_from_eyes,painful_walking,itching,
+Pneumonia,receiving_unsterile_injections,stomach_bleeding,lack_of_concentration,internal_itching,,,,
+Arthritis,small_dents_in_nails,mood_swings,bloody_stool,malaise,mild_fever,mucoid_sputum,lethargy,weight_gain
+Psoriasis,muscle_pain,mood_swings,swollen_extremeties,neck_pain,passage_of_gases,,,
+Gastroenteritis,belly_pain,painful_walking,irritability,brittle_nails,,,,
+Common Cold,silver_like_dusting,congestion,nausea,rusty_sputum,high_fever,neck_pain,blurred_and_distorted_vision,
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,vomiting,toxic_look_(typhos),,,,
+GERD,throat_irritation,pain_in_anal_region,chest_pain,joint_pain,,,,
+Hypertension,neck_pain,weakness_in_limbs,yellow_urine,acute_liver_failure,blackheads,puffy_face_and_eyes,belly_pain,loss_of_balance
+Dengue,swollen_legs,painful_walking,sweating,mild_fever,itching,swelling_of_stomach,knee_pain,
+Osteoarthristis,weight_gain,anxiety,burning_micturition,swelling_joints,,,,
+Malaria,abnormal_menstruation,belly_pain,receiving_unsterile_injections,mild_fever,cold_hands_and_feets,,,
+Hepatitis D,palpitations,headache,family_history,history_of_alcohol_consumption,dizziness,redness_of_eyes,altered_sensorium,stiff_neck
+Psoriasis,swollen_extremeties,passage_of_gases,neck_pain,mood_swings,muscle_pain,,,
+Paralysis (brain hemorrhage),coma,family_history,dizziness,swollen_legs,pain_behind_the_eyes,,,
+Osteoarthristis,swelling_joints,anxiety,burning_micturition,weight_gain,,,,
+Hepatitis B,lethargy,patches_in_throat,mood_swings,dark_urine,blister,,,
+Hyperthyroidism,belly_pain,watering_from_eyes,painful_walking,itching,yellowing_of_eyes,anxiety,swollen_legs,
+Gastroenteritis,irritability,painful_walking,belly_pain,brittle_nails,,,,
+Hepatitis B,blister,lethargy,dark_urine,mood_swings,patches_in_throat,,,
+Vertigo,dizziness,muscle_wasting,receiving_blood_transfusion,lethargy,,,,
+Alcoholic hepatitis,anxiety,pain_during_bowel_movements,weight_loss,mood_swings,,,,
+Tuberculosis,unsteadiness,weight_loss,brittle_nails,bloody_stool,,,,
+Heart attack,prominent_veins_on_calf,blurred_and_distorted_vision,swelled_lymph_nodes,pain_behind_the_eyes,receiving_unsterile_injections,,,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,swollen_legs,vomiting,,,,
+Drug Reaction,loss_of_smell,diarrhoea,belly_pain,chest_pain,breathlessness,cough,,
+Hypothyroidism,continuous_sneezing,yellowing_of_eyes,congestion,cough,blister,inflammatory_nails,bloody_stool,rusty_sputum
+Hepatitis C,swollen_legs,yellowing_of_eyes,receiving_unsterile_injections,congestion,silver_like_dusting,,,
+Allergy,stomach_pain,receiving_unsterile_injections,acidity,irregular_sugar_level,breathlessness,,,
+Fungal infection,enlarged_thyroid,neck_pain,joint_pain,fast_heart_rate,,,,
+Hepatitis A,irritation_in_anus,depression,weight_gain,muscle_weakness,,,,
+Hepatitis E,weakness_in_limbs,pain_during_bowel_movements,loss_of_smell,cold_hands_and_feets,chills,,,
+Chronic cholestasis,skin_rash,receiving_blood_transfusion,bladder_discomfort,brittle_nails,weakness_in_limbs,prominent_veins_on_calf,mild_fever,receiving_unsterile_injections
+AIDS,phlegm,lethargy,depression,mood_swings,slurred_speech,red_spots_over_body,yellowish_skin,
+Hypoglycemia,diarrhoea,blister,slurred_speech,receiving_unsterile_injections,blurred_and_distorted_vision,chest_pain,,
+Diabetes,drying_and_tingling_lips,pain_during_bowel_movements,lethargy,pain_in_anal_region,,,,
+Varicose veins,sunken_eyes,restlessness,burning_micturition,blood_in_sputum,dizziness,blackheads,,
+AIDS,depression,yellowish_skin,slurred_speech,red_spots_over_body,phlegm,mood_swings,lethargy,
+Bronchial Asthma,internal_itching,swollen_blood_vessels,runny_nose,weight_loss,muscle_pain,,,
+Dimorphic hemmorhoids(piles),fatigue,dizziness,mucoid_sputum,loss_of_smell,sunken_eyes,sweating,anxiety,
+Paralysis (brain hemorrhage),pain_behind_the_eyes,dizziness,coma,family_history,swollen_legs,,,
+Acne,swollen_legs,polyuria,swelling_joints,obesity,knee_pain,irritation_in_anus,sinus_pressure,nausea
+Peptic ulcer disease,toxic_look_(typhos),vomiting,swollen_legs,continuous_feel_of_urine,,,,
+Allergy,acidity,breathlessness,stomach_pain,irregular_sugar_level,receiving_unsterile_injections,,,
+Tuberculosis,weight_loss,unsteadiness,brittle_nails,bloody_stool,,,,
+Malaria,receiving_unsterile_injections,cold_hands_and_feets,mild_fever,belly_pain,abnormal_menstruation,,,
+Hypothyroidism,yellowing_of_eyes,congestion,blister,inflammatory_nails,bloody_stool,continuous_sneezing,rusty_sputum,cough
+Vertigo,lethargy,dizziness,muscle_wasting,receiving_blood_transfusion,,,,
+Varicose veins,restlessness,dizziness,blood_in_sputum,sunken_eyes,burning_micturition,blackheads,,
+Paralysis (brain hemorrhage),coma,dizziness,pain_behind_the_eyes,family_history,swollen_legs,,,
+Impetigo,history_of_alcohol_consumption,nodal_skin_eruptions,hip_joint_pain,knee_pain,breathlessness,,,
+Peptic ulcer disease,swollen_legs,toxic_look_(typhos),vomiting,continuous_feel_of_urine,,,,
+Hepatitis A,muscle_weakness,weight_gain,irritation_in_anus,depression,,,,
+Bronchial Asthma,swollen_blood_vessels,muscle_pain,internal_itching,runny_nose,weight_loss,,,
+Hepatitis A,muscle_weakness,depression,irritation_in_anus,weight_gain,,,,
+Chronic cholestasis,weakness_in_limbs,skin_rash,prominent_veins_on_calf,mild_fever,receiving_unsterile_injections,bladder_discomfort,receiving_blood_transfusion,brittle_nails
+Hepatitis A,weight_gain,irritation_in_anus,depression,muscle_weakness,,,,
+Gastroenteritis,painful_walking,brittle_nails,irritability,belly_pain,,,,
+Hepatitis D,dizziness,redness_of_eyes,altered_sensorium,palpitations,headache,family_history,stiff_neck,history_of_alcohol_consumption
+Allergy,stomach_pain,breathlessness,irregular_sugar_level,acidity,receiving_unsterile_injections,,,
+Chicken pox,bladder_discomfort,slurred_speech,scurring,nodal_skin_eruptions,swollen_blood_vessels,dehydration,indigestion,cramps
+Vertigo,lethargy,dizziness,receiving_blood_transfusion,muscle_wasting,,,,
+Chicken pox,indigestion,dehydration,nodal_skin_eruptions,slurred_speech,scurring,bladder_discomfort,swollen_blood_vessels,cramps
+GERD,pain_in_anal_region,joint_pain,throat_irritation,chest_pain,,,,
+Varicose veins,sunken_eyes,burning_micturition,blackheads,dizziness,blood_in_sputum,restlessness,,
+Arthritis,small_dents_in_nails,malaise,mood_swings,lethargy,mucoid_sputum,weight_gain,mild_fever,bloody_stool
+Dengue,painful_walking,swollen_legs,sweating,itching,swelling_of_stomach,mild_fever,knee_pain,
+Migraine,family_history,pain_during_bowel_movements,swelling_joints,acidity,,,,
+Tuberculosis,brittle_nails,bloody_stool,weight_loss,unsteadiness,,,,
+Hepatitis A,weight_gain,muscle_weakness,depression,irritation_in_anus,,,,
+Fungal infection,fast_heart_rate,enlarged_thyroid,joint_pain,neck_pain,,,,
+Vertigo,muscle_wasting,dizziness,receiving_blood_transfusion,lethargy,,,,
+Heart attack,prominent_veins_on_calf,swelled_lymph_nodes,blurred_and_distorted_vision,receiving_unsterile_injections,pain_behind_the_eyes,,,
+Bronchial Asthma,internal_itching,runny_nose,weight_loss,swollen_blood_vessels,muscle_pain,,,
+Osteoarthristis,swelling_joints,anxiety,burning_micturition,weight_gain,,,,
+Hepatitis C,congestion,yellowing_of_eyes,swollen_legs,receiving_unsterile_injections,silver_like_dusting,,,
+AIDS,lethargy,yellowish_skin,phlegm,slurred_speech,mood_swings,depression,red_spots_over_body,
+Bronchial Asthma,internal_itching,weight_loss,swollen_blood_vessels,muscle_pain,runny_nose,,,
+Hypoglycemia,blister,receiving_unsterile_injections,slurred_speech,chest_pain,diarrhoea,blurred_and_distorted_vision,,
+Acne,polyuria,nausea,sinus_pressure,swelling_joints,irritation_in_anus,knee_pain,swollen_legs,obesity
+Pneumonia,receiving_unsterile_injections,lack_of_concentration,stomach_bleeding,internal_itching,,,,
+Chicken pox,scurring,slurred_speech,cramps,swollen_blood_vessels,nodal_skin_eruptions,indigestion,dehydration,bladder_discomfort
+Jaundice,cough,dehydration,yellow_crust_ooze,burning_micturition,pain_behind_the_eyes,weakness_in_limbs,,
+Bronchial Asthma,weight_loss,runny_nose,swollen_blood_vessels,internal_itching,muscle_pain,,,
+Hepatitis B,dark_urine,patches_in_throat,blister,lethargy,mood_swings,,,
+Paralysis (brain hemorrhage),swollen_legs,family_history,pain_behind_the_eyes,dizziness,coma,,,
+Diabetes,lethargy,drying_and_tingling_lips,pain_in_anal_region,pain_during_bowel_movements,,,,
+Urinary tract infection,pus_filled_pimples,sunken_eyes,swollen_legs,congestion,nodal_skin_eruptions,weight_loss,swelling_joints,
+Hepatitis D,stiff_neck,altered_sensorium,palpitations,dizziness,family_history,redness_of_eyes,history_of_alcohol_consumption,headache
+Tuberculosis,weight_loss,unsteadiness,bloody_stool,brittle_nails,,,,
+AIDS,depression,lethargy,mood_swings,phlegm,red_spots_over_body,yellowish_skin,slurred_speech,
+Jaundice,yellow_crust_ooze,weakness_in_limbs,burning_micturition,cough,dehydration,pain_behind_the_eyes,,
+Acne,sinus_pressure,obesity,irritation_in_anus,knee_pain,polyuria,swelling_joints,nausea,swollen_legs
+Gastroenteritis,painful_walking,irritability,brittle_nails,belly_pain,,,,
+GERD,pain_in_anal_region,joint_pain,chest_pain,throat_irritation,,,,
+Vertigo,dizziness,muscle_wasting,lethargy,receiving_blood_transfusion,,,,
+Hypothyroidism,bloody_stool,congestion,rusty_sputum,cough,inflammatory_nails,blister,yellowing_of_eyes,continuous_sneezing
+Migraine,pain_during_bowel_movements,family_history,acidity,swelling_joints,,,,
+Bronchial Asthma,weight_loss,swollen_blood_vessels,runny_nose,internal_itching,muscle_pain,,,
+Hypothyroidism,blister,bloody_stool,cough,congestion,continuous_sneezing,yellowing_of_eyes,rusty_sputum,inflammatory_nails
+Gastroenteritis,brittle_nails,painful_walking,belly_pain,irritability,,,,
+Impetigo,knee_pain,nodal_skin_eruptions,hip_joint_pain,history_of_alcohol_consumption,breathlessness,,,
+Varicose veins,blackheads,dizziness,burning_micturition,restlessness,blood_in_sputum,sunken_eyes,,
+Alcoholic hepatitis,anxiety,mood_swings,weight_loss,pain_during_bowel_movements,,,,
+Hepatitis B,blister,mood_swings,lethargy,patches_in_throat,dark_urine,,,
+Chronic cholestasis,brittle_nails,mild_fever,receiving_blood_transfusion,weakness_in_limbs,receiving_unsterile_injections,prominent_veins_on_calf,skin_rash,bladder_discomfort
+Malaria,belly_pain,mild_fever,abnormal_menstruation,cold_hands_and_feets,receiving_unsterile_injections,,,
+Jaundice,pain_behind_the_eyes,dehydration,weakness_in_limbs,yellow_crust_ooze,cough,burning_micturition,,
+Malaria,mild_fever,receiving_unsterile_injections,abnormal_menstruation,cold_hands_and_feets,belly_pain,,,
+Acne,irritation_in_anus,knee_pain,swollen_legs,obesity,sinus_pressure,nausea,polyuria,swelling_joints
+Hypothyroidism,inflammatory_nails,bloody_stool,blister,congestion,continuous_sneezing,yellowing_of_eyes,cough,rusty_sputum
+Urinary tract infection,nodal_skin_eruptions,swollen_legs,congestion,pus_filled_pimples,sunken_eyes,swelling_joints,weight_loss,
+Psoriasis,neck_pain,passage_of_gases,muscle_pain,swollen_extremeties,mood_swings,,,
+Hepatitis B,patches_in_throat,blister,mood_swings,dark_urine,lethargy,,,
+Diabetes,pain_in_anal_region,drying_and_tingling_lips,pain_during_bowel_movements,lethargy,,,,
+Tuberculosis,brittle_nails,bloody_stool,weight_loss,unsteadiness,,,,
+Hepatitis B,lethargy,mood_swings,blister,dark_urine,patches_in_throat,,,
+Impetigo,breathlessness,hip_joint_pain,history_of_alcohol_consumption,nodal_skin_eruptions,knee_pain,,,
+Jaundice,weakness_in_limbs,yellow_crust_ooze,cough,pain_behind_the_eyes,burning_micturition,dehydration,,
+Typhoid,red_sore_around_nose,itching,shivering,yellow_urine,throat_irritation,spinning_movements,diarrhoea,altered_sensorium
+Migraine,acidity,pain_during_bowel_movements,family_history,swelling_joints,,,,
+Impetigo,nodal_skin_eruptions,knee_pain,hip_joint_pain,history_of_alcohol_consumption,breathlessness,,,
+Hepatitis C,congestion,swollen_legs,receiving_unsterile_injections,yellowing_of_eyes,silver_like_dusting,,,
+Hypertension,belly_pain,loss_of_balance,acute_liver_failure,blackheads,yellow_urine,puffy_face_and_eyes,weakness_in_limbs,neck_pain
+Paralysis (brain hemorrhage),coma,dizziness,family_history,swollen_legs,pain_behind_the_eyes,,,
+AIDS,depression,lethargy,red_spots_over_body,slurred_speech,mood_swings,yellowish_skin,phlegm,
+Hypertension,belly_pain,neck_pain,acute_liver_failure,puffy_face_and_eyes,yellow_urine,loss_of_balance,blackheads,weakness_in_limbs
+Vertigo,lethargy,receiving_blood_transfusion,dizziness,muscle_wasting,,,,
+Drug Reaction,breathlessness,cough,chest_pain,belly_pain,loss_of_smell,diarrhoea,,
+AIDS,depression,phlegm,mood_swings,slurred_speech,red_spots_over_body,lethargy,yellowish_skin,
+Arthritis,mucoid_sputum,small_dents_in_nails,bloody_stool,lethargy,mood_swings,malaise,weight_gain,mild_fever
+Pneumonia,stomach_bleeding,lack_of_concentration,receiving_unsterile_injections,internal_itching,,,,
+Hypertension,weakness_in_limbs,puffy_face_and_eyes,blackheads,belly_pain,neck_pain,yellow_urine,loss_of_balance,acute_liver_failure
+Typhoid,shivering,red_sore_around_nose,altered_sensorium,yellow_urine,spinning_movements,throat_irritation,diarrhoea,itching
+Bronchial Asthma,swollen_blood_vessels,internal_itching,weight_loss,runny_nose,muscle_pain,,,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,vomiting,swollen_legs,,,,
+Cervical spondylosis,swelling_joints,extra_marital_contacts,polyuria,congestion,pus_filled_pimples,cold_hands_and_feets,,
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),vomiting,,,,
+Tuberculosis,unsteadiness,bloody_stool,weight_loss,brittle_nails,,,,
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),vomiting,,,,
+Alcoholic hepatitis,mood_swings,anxiety,weight_loss,pain_during_bowel_movements,,,,
+GERD,chest_pain,throat_irritation,pain_in_anal_region,joint_pain,,,,
+Chicken pox,cramps,bladder_discomfort,slurred_speech,scurring,swollen_blood_vessels,nodal_skin_eruptions,dehydration,indigestion
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,vomiting,swollen_legs,,,,
+Acne,polyuria,obesity,sinus_pressure,nausea,knee_pain,swelling_joints,swollen_legs,irritation_in_anus
+Vertigo,dizziness,lethargy,receiving_blood_transfusion,muscle_wasting,,,,
+Peptic ulcer disease,continuous_feel_of_urine,toxic_look_(typhos),swollen_legs,vomiting,,,,
+Hyperthyroidism,belly_pain,itching,anxiety,yellowing_of_eyes,swollen_legs,painful_walking,watering_from_eyes,
+Migraine,family_history,swelling_joints,pain_during_bowel_movements,acidity,,,,
+Gastroenteritis,painful_walking,irritability,brittle_nails,belly_pain,,,,
+Pneumonia,lack_of_concentration,stomach_bleeding,receiving_unsterile_injections,internal_itching,,,,
+Urinary tract infection,pus_filled_pimples,congestion,weight_loss,sunken_eyes,swelling_joints,swollen_legs,nodal_skin_eruptions,
+Arthritis,mucoid_sputum,mild_fever,small_dents_in_nails,lethargy,malaise,weight_gain,bloody_stool,mood_swings
+Diabetes,drying_and_tingling_lips,lethargy,pain_during_bowel_movements,pain_in_anal_region,,,,
+Vertigo,muscle_wasting,lethargy,receiving_blood_transfusion,dizziness,,,,
+Typhoid,throat_irritation,diarrhoea,shivering,itching,red_sore_around_nose,altered_sensorium,yellow_urine,spinning_movements
+GERD,chest_pain,joint_pain,throat_irritation,pain_in_anal_region,,,,
+Bronchial Asthma,runny_nose,internal_itching,muscle_pain,swollen_blood_vessels,weight_loss,,,
+Hepatitis C,receiving_unsterile_injections,congestion,swollen_legs,silver_like_dusting,yellowing_of_eyes,,,
+Dengue,sweating,swollen_legs,painful_walking,swelling_of_stomach,knee_pain,mild_fever,itching,
+Hypothyroidism,continuous_sneezing,rusty_sputum,yellowing_of_eyes,bloody_stool,blister,congestion,inflammatory_nails,cough
+Hepatitis B,patches_in_throat,lethargy,dark_urine,mood_swings,blister,,,
+Cervical spondylosis,cold_hands_and_feets,polyuria,swelling_joints,pus_filled_pimples,congestion,extra_marital_contacts,,
+Hypoglycemia,chest_pain,blurred_and_distorted_vision,slurred_speech,blister,receiving_unsterile_injections,diarrhoea,,
+Hyperthyroidism,swollen_legs,belly_pain,painful_walking,anxiety,watering_from_eyes,yellowing_of_eyes,itching,
+Cervical spondylosis,swelling_joints,extra_marital_contacts,polyuria,pus_filled_pimples,congestion,cold_hands_and_feets,,
+Hepatitis E,cold_hands_and_feets,pain_during_bowel_movements,weakness_in_limbs,chills,loss_of_smell,,,
+Hyperthyroidism,belly_pain,yellowing_of_eyes,painful_walking,watering_from_eyes,anxiety,swollen_legs,itching,
+Hypothyroidism,blister,continuous_sneezing,inflammatory_nails,bloody_stool,rusty_sputum,yellowing_of_eyes,cough,congestion
+Chicken pox,slurred_speech,dehydration,swollen_blood_vessels,bladder_discomfort,indigestion,scurring,nodal_skin_eruptions,cramps
+Jaundice,weakness_in_limbs,yellow_crust_ooze,cough,burning_micturition,pain_behind_the_eyes,dehydration,,
+Hyperthyroidism,yellowing_of_eyes,belly_pain,watering_from_eyes,itching,painful_walking,swollen_legs,anxiety,
+Urinary tract infection,congestion,sunken_eyes,pus_filled_pimples,nodal_skin_eruptions,weight_loss,swelling_joints,swollen_legs,
+Dengue,swelling_of_stomach,mild_fever,painful_walking,sweating,itching,knee_pain,swollen_legs,
+Heart attack,prominent_veins_on_calf,blurred_and_distorted_vision,swelled_lymph_nodes,receiving_unsterile_injections,pain_behind_the_eyes,,,
+Fungal infection,joint_pain,enlarged_thyroid,fast_heart_rate,neck_pain,,,,
+Hepatitis A,irritation_in_anus,weight_gain,muscle_weakness,depression,,,,
+Hepatitis C,silver_like_dusting,receiving_unsterile_injections,yellowing_of_eyes,congestion,swollen_legs,,,
+Hepatitis A,weight_gain,irritation_in_anus,depression,muscle_weakness,,,,
+Chronic cholestasis,brittle_nails,skin_rash,bladder_discomfort,receiving_blood_transfusion,weakness_in_limbs,prominent_veins_on_calf,mild_fever,receiving_unsterile_injections
+Typhoid,diarrhoea,shivering,altered_sensorium,throat_irritation,spinning_movements,red_sore_around_nose,yellow_urine,itching
+Hepatitis C,silver_like_dusting,congestion,swollen_legs,receiving_unsterile_injections,yellowing_of_eyes,,,
+Hyperthyroidism,painful_walking,anxiety,itching,swollen_legs,watering_from_eyes,yellowing_of_eyes,belly_pain,
+Varicose veins,blackheads,blood_in_sputum,sunken_eyes,burning_micturition,restlessness,dizziness,,
+Peptic ulcer disease,swollen_legs,toxic_look_(typhos),vomiting,continuous_feel_of_urine,,,,
+Hepatitis A,depression,irritation_in_anus,muscle_weakness,weight_gain,,,,
+Chicken pox,cramps,slurred_speech,nodal_skin_eruptions,bladder_discomfort,dehydration,scurring,indigestion,swollen_blood_vessels
+Varicose veins,blood_in_sputum,burning_micturition,restlessness,blackheads,sunken_eyes,dizziness,,
+Hypoglycemia,blister,chest_pain,slurred_speech,receiving_unsterile_injections,blurred_and_distorted_vision,diarrhoea,,
+Cervical spondylosis,pus_filled_pimples,congestion,cold_hands_and_feets,polyuria,extra_marital_contacts,swelling_joints,,
+Migraine,family_history,swelling_joints,acidity,pain_during_bowel_movements,,,,
+Impetigo,breathlessness,history_of_alcohol_consumption,knee_pain,nodal_skin_eruptions,hip_joint_pain,,,
+Fungal infection,neck_pain,joint_pain,enlarged_thyroid,fast_heart_rate,,,,
+Hypertension,puffy_face_and_eyes,belly_pain,loss_of_balance,weakness_in_limbs,neck_pain,acute_liver_failure,blackheads,yellow_urine
+Tuberculosis,unsteadiness,bloody_stool,weight_loss,brittle_nails,,,,
+Fungal infection,enlarged_thyroid,fast_heart_rate,neck_pain,joint_pain,,,,
+Hepatitis E,loss_of_smell,weakness_in_limbs,pain_during_bowel_movements,chills,cold_hands_and_feets,,,
+Allergy,receiving_unsterile_injections,acidity,stomach_pain,irregular_sugar_level,breathlessness,,,
+Hepatitis A,irritation_in_anus,weight_gain,depression,muscle_weakness,,,,
+Hyperthyroidism,swollen_legs,painful_walking,itching,anxiety,yellowing_of_eyes,belly_pain,watering_from_eyes,
+Typhoid,yellow_urine,throat_irritation,diarrhoea,altered_sensorium,red_sore_around_nose,itching,spinning_movements,shivering
+Hepatitis C,yellowing_of_eyes,congestion,silver_like_dusting,swollen_legs,receiving_unsterile_injections,,,
+Tuberculosis,weight_loss,bloody_stool,brittle_nails,unsteadiness,,,,
+Gastroenteritis,irritability,belly_pain,painful_walking,brittle_nails,,,,
+Acne,swollen_legs,obesity,polyuria,irritation_in_anus,nausea,knee_pain,swelling_joints,sinus_pressure
+Osteoarthristis,swelling_joints,burning_micturition,weight_gain,anxiety,,,,
+AIDS,slurred_speech,lethargy,red_spots_over_body,depression,mood_swings,yellowish_skin,phlegm,
+Alcoholic hepatitis,mood_swings,anxiety,pain_during_bowel_movements,weight_loss,,,,
+Varicose veins,blood_in_sputum,blackheads,restlessness,sunken_eyes,dizziness,burning_micturition,,
+Hepatitis A,muscle_weakness,depression,irritation_in_anus,weight_gain,,,,
+Hypoglycemia,chest_pain,receiving_unsterile_injections,blurred_and_distorted_vision,blister,slurred_speech,diarrhoea,,
+Hyperthyroidism,yellowing_of_eyes,itching,painful_walking,belly_pain,anxiety,watering_from_eyes,swollen_legs,
+Hypothyroidism,continuous_sneezing,inflammatory_nails,congestion,blister,bloody_stool,cough,rusty_sputum,yellowing_of_eyes
+Typhoid,red_sore_around_nose,spinning_movements,shivering,diarrhoea,yellow_urine,itching,throat_irritation,altered_sensorium
+Hepatitis C,congestion,swollen_legs,receiving_unsterile_injections,silver_like_dusting,yellowing_of_eyes,,,
+Diabetes,drying_and_tingling_lips,lethargy,pain_during_bowel_movements,pain_in_anal_region,,,,
+Hyperthyroidism,yellowing_of_eyes,watering_from_eyes,itching,belly_pain,painful_walking,swollen_legs,anxiety,
+Heart attack,receiving_unsterile_injections,blurred_and_distorted_vision,prominent_veins_on_calf,swelled_lymph_nodes,pain_behind_the_eyes,,,
+AIDS,depression,slurred_speech,phlegm,lethargy,yellowish_skin,red_spots_over_body,mood_swings,
+Pneumonia,internal_itching,receiving_unsterile_injections,lack_of_concentration,stomach_bleeding,,,,
+Fungal infection,fast_heart_rate,joint_pain,neck_pain,enlarged_thyroid,,,,
+Hepatitis C,silver_like_dusting,yellowing_of_eyes,congestion,receiving_unsterile_injections,swollen_legs,,,
+Peptic ulcer disease,vomiting,toxic_look_(typhos),continuous_feel_of_urine,swollen_legs,,,,
+Diabetes,pain_during_bowel_movements,lethargy,drying_and_tingling_lips,pain_in_anal_region,,,,
+Dengue,painful_walking,mild_fever,itching,swelling_of_stomach,sweating,swollen_legs,knee_pain,
+Diabetes,pain_in_anal_region,pain_during_bowel_movements,lethargy,drying_and_tingling_lips,,,,
+Hypertension,yellow_urine,loss_of_balance,acute_liver_failure,puffy_face_and_eyes,weakness_in_limbs,belly_pain,blackheads,neck_pain
+Hepatitis D,family_history,dizziness,history_of_alcohol_consumption,altered_sensorium,stiff_neck,palpitations,headache,redness_of_eyes
+Common Cold,rusty_sputum,nausea,high_fever,silver_like_dusting,blurred_and_distorted_vision,congestion,neck_pain,
+Fungal infection,joint_pain,fast_heart_rate,neck_pain,enlarged_thyroid,,,,
+Hypoglycemia,diarrhoea,blurred_and_distorted_vision,blister,receiving_unsterile_injections,chest_pain,slurred_speech,,
+Varicose veins,sunken_eyes,blackheads,burning_micturition,dizziness,blood_in_sputum,restlessness,,
+Fungal infection,joint_pain,fast_heart_rate,neck_pain,enlarged_thyroid,,,,
+Hypothyroidism,inflammatory_nails,rusty_sputum,blister,cough,congestion,yellowing_of_eyes,continuous_sneezing,bloody_stool
+Chronic cholestasis,weakness_in_limbs,prominent_veins_on_calf,receiving_blood_transfusion,receiving_unsterile_injections,bladder_discomfort,mild_fever,skin_rash,brittle_nails
+Heart attack,pain_behind_the_eyes,prominent_veins_on_calf,blurred_and_distorted_vision,swelled_lymph_nodes,receiving_unsterile_injections,,,
+Dimorphic hemmorhoids(piles),dizziness,sunken_eyes,loss_of_smell,sweating,mucoid_sputum,fatigue,anxiety,
+Common Cold,silver_like_dusting,nausea,neck_pain,high_fever,blurred_and_distorted_vision,rusty_sputum,congestion,
+Hyperthyroidism,painful_walking,anxiety,swollen_legs,belly_pain,itching,yellowing_of_eyes,watering_from_eyes,
+Jaundice,weakness_in_limbs,pain_behind_the_eyes,burning_micturition,dehydration,yellow_crust_ooze,cough,,
+Dimorphic hemmorhoids(piles),mucoid_sputum,anxiety,loss_of_smell,sweating,sunken_eyes,dizziness,fatigue,
+Impetigo,hip_joint_pain,history_of_alcohol_consumption,knee_pain,breathlessness,nodal_skin_eruptions,,,
+GERD,joint_pain,chest_pain,throat_irritation,pain_in_anal_region,,,,
+Common Cold,neck_pain,blurred_and_distorted_vision,high_fever,nausea,rusty_sputum,silver_like_dusting,congestion,
+Tuberculosis,bloody_stool,unsteadiness,brittle_nails,weight_loss,,,,
+Hepatitis C,yellowing_of_eyes,swollen_legs,congestion,receiving_unsterile_injections,silver_like_dusting,,,
+Dimorphic hemmorhoids(piles),anxiety,fatigue,dizziness,sunken_eyes,loss_of_smell,sweating,mucoid_sputum,
+Hypoglycemia,slurred_speech,blister,diarrhoea,blurred_and_distorted_vision,receiving_unsterile_injections,chest_pain,,
+Hyperthyroidism,itching,anxiety,belly_pain,swollen_legs,watering_from_eyes,yellowing_of_eyes,painful_walking,
+AIDS,yellowish_skin,red_spots_over_body,mood_swings,lethargy,depression,phlegm,slurred_speech,
+Common Cold,congestion,neck_pain,high_fever,silver_like_dusting,nausea,blurred_and_distorted_vision,rusty_sputum,
+Typhoid,throat_irritation,itching,altered_sensorium,yellow_urine,spinning_movements,diarrhoea,red_sore_around_nose,shivering
+Arthritis,lethargy,weight_gain,small_dents_in_nails,mild_fever,malaise,bloody_stool,mucoid_sputum,mood_swings
+Psoriasis,mood_swings,passage_of_gases,muscle_pain,swollen_extremeties,neck_pain,,,
+Migraine,acidity,pain_during_bowel_movements,family_history,swelling_joints,,,,
+Hepatitis D,palpitations,redness_of_eyes,stiff_neck,family_history,altered_sensorium,headache,history_of_alcohol_consumption,dizziness
+Hypoglycemia,blister,diarrhoea,slurred_speech,blurred_and_distorted_vision,chest_pain,receiving_unsterile_injections,,
+Chronic cholestasis,mild_fever,bladder_discomfort,receiving_blood_transfusion,skin_rash,receiving_unsterile_injections,weakness_in_limbs,prominent_veins_on_calf,brittle_nails
+Typhoid,shivering,spinning_movements,diarrhoea,altered_sensorium,throat_irritation,itching,red_sore_around_nose,yellow_urine
+Psoriasis,passage_of_gases,muscle_pain,neck_pain,mood_swings,swollen_extremeties,,,
+Malaria,receiving_unsterile_injections,mild_fever,abnormal_menstruation,cold_hands_and_feets,belly_pain,,,
+Alcoholic hepatitis,weight_loss,pain_during_bowel_movements,anxiety,mood_swings,,,,
+Arthritis,bloody_stool,lethargy,malaise,mild_fever,weight_gain,mood_swings,mucoid_sputum,small_dents_in_nails
+Jaundice,cough,weakness_in_limbs,burning_micturition,pain_behind_the_eyes,yellow_crust_ooze,dehydration,,
+Typhoid,yellow_urine,altered_sensorium,itching,red_sore_around_nose,throat_irritation,spinning_movements,diarrhoea,shivering
+Alcoholic hepatitis,mood_swings,pain_during_bowel_movements,anxiety,weight_loss,,,,
+Arthritis,lethargy,mood_swings,small_dents_in_nails,weight_gain,mucoid_sputum,bloody_stool,mild_fever,malaise
+Heart attack,pain_behind_the_eyes,swelled_lymph_nodes,receiving_unsterile_injections,blurred_and_distorted_vision,prominent_veins_on_calf,,,
+Urinary tract infection,swollen_legs,pus_filled_pimples,weight_loss,nodal_skin_eruptions,sunken_eyes,congestion,swelling_joints,
+Drug Reaction,breathlessness,cough,diarrhoea,chest_pain,loss_of_smell,belly_pain,,
+Hyperthyroidism,belly_pain,painful_walking,anxiety,swollen_legs,watering_from_eyes,itching,yellowing_of_eyes,
+Jaundice,weakness_in_limbs,cough,dehydration,burning_micturition,yellow_crust_ooze,pain_behind_the_eyes,,
+Paralysis (brain hemorrhage),pain_behind_the_eyes,swollen_legs,dizziness,coma,family_history,,,
+Diabetes,pain_in_anal_region,pain_during_bowel_movements,drying_and_tingling_lips,lethargy,,,,
+Psoriasis,neck_pain,muscle_pain,passage_of_gases,mood_swings,swollen_extremeties,,,
+Alcoholic hepatitis,mood_swings,pain_during_bowel_movements,anxiety,weight_loss,,,,
+Osteoarthristis,burning_micturition,swelling_joints,anxiety,weight_gain,,,,
+Hyperthyroidism,belly_pain,yellowing_of_eyes,anxiety,swollen_legs,itching,watering_from_eyes,painful_walking,
+Cervical spondylosis,congestion,pus_filled_pimples,extra_marital_contacts,cold_hands_and_feets,polyuria,swelling_joints,,
+Osteoarthristis,swelling_joints,burning_micturition,weight_gain,anxiety,,,,
+Paralysis (brain hemorrhage),family_history,dizziness,swollen_legs,coma,pain_behind_the_eyes,,,
+Osteoarthristis,swelling_joints,anxiety,weight_gain,burning_micturition,,,,
+Bronchial Asthma,weight_loss,internal_itching,runny_nose,swollen_blood_vessels,muscle_pain,,,
+GERD,pain_in_anal_region,joint_pain,throat_irritation,chest_pain,,,,
+Migraine,acidity,pain_during_bowel_movements,family_history,swelling_joints,,,,
+Vertigo,dizziness,lethargy,receiving_blood_transfusion,muscle_wasting,,,,
+Alcoholic hepatitis,weight_loss,anxiety,pain_during_bowel_movements,mood_swings,,,,
+Pneumonia,lack_of_concentration,internal_itching,stomach_bleeding,receiving_unsterile_injections,,,,
+Diabetes,drying_and_tingling_lips,pain_in_anal_region,lethargy,pain_during_bowel_movements,,,,
+Acne,irritation_in_anus,swollen_legs,obesity,nausea,sinus_pressure,knee_pain,polyuria,swelling_joints
+Urinary tract infection,congestion,swollen_legs,weight_loss,sunken_eyes,pus_filled_pimples,nodal_skin_eruptions,swelling_joints,
+Varicose veins,restlessness,blood_in_sputum,blackheads,burning_micturition,sunken_eyes,dizziness,,
+Osteoarthristis,swelling_joints,anxiety,burning_micturition,weight_gain,,,,
+Hepatitis A,muscle_weakness,weight_gain,depression,irritation_in_anus,,,,
+Diabetes,lethargy,drying_and_tingling_lips,pain_in_anal_region,pain_during_bowel_movements,,,,
+Osteoarthristis,weight_gain,burning_micturition,swelling_joints,anxiety,,,,
+Hepatitis D,headache,family_history,redness_of_eyes,stiff_neck,history_of_alcohol_consumption,palpitations,dizziness,altered_sensorium
+Jaundice,cough,dehydration,weakness_in_limbs,pain_behind_the_eyes,yellow_crust_ooze,burning_micturition,,
+Vertigo,receiving_blood_transfusion,muscle_wasting,lethargy,dizziness,,,,
+Arthritis,mucoid_sputum,lethargy,malaise,bloody_stool,small_dents_in_nails,mood_swings,weight_gain,mild_fever
+Acne,polyuria,irritation_in_anus,swelling_joints,swollen_legs,obesity,nausea,sinus_pressure,knee_pain
+Psoriasis,swollen_extremeties,neck_pain,muscle_pain,mood_swings,passage_of_gases,,,
+Dimorphic hemmorhoids(piles),fatigue,mucoid_sputum,sweating,sunken_eyes,dizziness,loss_of_smell,anxiety,
+Hepatitis B,blister,dark_urine,lethargy,patches_in_throat,mood_swings,,,
+Malaria,mild_fever,cold_hands_and_feets,belly_pain,abnormal_menstruation,receiving_unsterile_injections,,,
+Gastroenteritis,belly_pain,irritability,brittle_nails,painful_walking,,,,
+Dimorphic hemmorhoids(piles),sunken_eyes,sweating,loss_of_smell,fatigue,mucoid_sputum,dizziness,anxiety,
+Dengue,itching,mild_fever,swollen_legs,sweating,swelling_of_stomach,painful_walking,knee_pain,
+Drug Reaction,breathlessness,chest_pain,loss_of_smell,belly_pain,cough,diarrhoea,,
+Acne,obesity,nausea,polyuria,knee_pain,sinus_pressure,swollen_legs,swelling_joints,irritation_in_anus
+Hepatitis E,cold_hands_and_feets,weakness_in_limbs,chills,loss_of_smell,pain_during_bowel_movements,,,
+Gastroenteritis,brittle_nails,belly_pain,painful_walking,irritability,,,,
+Tuberculosis,weight_loss,unsteadiness,brittle_nails,bloody_stool,,,,
+Malaria,abnormal_menstruation,mild_fever,cold_hands_and_feets,receiving_unsterile_injections,belly_pain,,,
+Dimorphic hemmorhoids(piles),fatigue,mucoid_sputum,anxiety,sweating,loss_of_smell,dizziness,sunken_eyes,
+Hepatitis D,palpitations,family_history,history_of_alcohol_consumption,dizziness,headache,altered_sensorium,stiff_neck,redness_of_eyes
+Jaundice,dehydration,cough,burning_micturition,yellow_crust_ooze,pain_behind_the_eyes,weakness_in_limbs,,
+Heart attack,receiving_unsterile_injections,prominent_veins_on_calf,pain_behind_the_eyes,swelled_lymph_nodes,blurred_and_distorted_vision,,,
+AIDS,red_spots_over_body,yellowish_skin,slurred_speech,mood_swings,lethargy,depression,phlegm,
+Alcoholic hepatitis,pain_during_bowel_movements,weight_loss,anxiety,mood_swings,,,,
+Hypoglycemia,receiving_unsterile_injections,slurred_speech,chest_pain,blister,blurred_and_distorted_vision,diarrhoea,,
+Hepatitis D,stiff_neck,dizziness,family_history,redness_of_eyes,history_of_alcohol_consumption,headache,altered_sensorium,palpitations
+Dimorphic hemmorhoids(piles),sweating,mucoid_sputum,loss_of_smell,anxiety,fatigue,dizziness,sunken_eyes,
+Migraine,swelling_joints,pain_during_bowel_movements,family_history,acidity,,,,
+Jaundice,dehydration,burning_micturition,pain_behind_the_eyes,weakness_in_limbs,yellow_crust_ooze,cough,,
+Varicose veins,blackheads,blood_in_sputum,restlessness,burning_micturition,sunken_eyes,dizziness,,
+Allergy,stomach_pain,receiving_unsterile_injections,acidity,breathlessness,irregular_sugar_level,,,
+Gastroenteritis,brittle_nails,irritability,painful_walking,belly_pain,,,,
+Chronic cholestasis,mild_fever,receiving_blood_transfusion,receiving_unsterile_injections,brittle_nails,skin_rash,weakness_in_limbs,bladder_discomfort,prominent_veins_on_calf
+Typhoid,altered_sensorium,throat_irritation,red_sore_around_nose,spinning_movements,itching,yellow_urine,shivering,diarrhoea
+Jaundice,dehydration,weakness_in_limbs,yellow_crust_ooze,pain_behind_the_eyes,burning_micturition,cough,,
+Psoriasis,muscle_pain,mood_swings,passage_of_gases,neck_pain,swollen_extremeties,,,
+Heart attack,pain_behind_the_eyes,prominent_veins_on_calf,receiving_unsterile_injections,blurred_and_distorted_vision,swelled_lymph_nodes,,,
+Alcoholic hepatitis,mood_swings,pain_during_bowel_movements,weight_loss,anxiety,,,,
+Cervical spondylosis,congestion,swelling_joints,cold_hands_and_feets,extra_marital_contacts,pus_filled_pimples,polyuria,,
+Migraine,acidity,pain_during_bowel_movements,swelling_joints,family_history,,,,
+Osteoarthristis,weight_gain,swelling_joints,burning_micturition,anxiety,,,,
+Gastroenteritis,irritability,brittle_nails,painful_walking,belly_pain,,,,
+Hypoglycemia,chest_pain,blister,slurred_speech,receiving_unsterile_injections,diarrhoea,blurred_and_distorted_vision,,
+Jaundice,pain_behind_the_eyes,weakness_in_limbs,burning_micturition,yellow_crust_ooze,dehydration,cough,,
+Pneumonia,stomach_bleeding,receiving_unsterile_injections,lack_of_concentration,internal_itching,,,,
+Jaundice,burning_micturition,dehydration,pain_behind_the_eyes,cough,yellow_crust_ooze,weakness_in_limbs,,
+Fungal infection,enlarged_thyroid,fast_heart_rate,neck_pain,joint_pain,,,,
+Hypoglycemia,chest_pain,slurred_speech,diarrhoea,blister,blurred_and_distorted_vision,receiving_unsterile_injections,,
+Common Cold,blurred_and_distorted_vision,rusty_sputum,high_fever,neck_pain,nausea,congestion,silver_like_dusting,
+Chicken pox,scurring,cramps,indigestion,bladder_discomfort,slurred_speech,nodal_skin_eruptions,swollen_blood_vessels,dehydration
+Paralysis (brain hemorrhage),dizziness,pain_behind_the_eyes,swollen_legs,family_history,coma,,,
+Arthritis,small_dents_in_nails,mild_fever,lethargy,mood_swings,malaise,bloody_stool,weight_gain,mucoid_sputum
+Gastroenteritis,brittle_nails,irritability,painful_walking,belly_pain,,,,
+Dimorphic hemmorhoids(piles),anxiety,loss_of_smell,mucoid_sputum,fatigue,sunken_eyes,sweating,dizziness,
+Hepatitis C,swollen_legs,yellowing_of_eyes,receiving_unsterile_injections,silver_like_dusting,congestion,,,
+Impetigo,nodal_skin_eruptions,hip_joint_pain,knee_pain,breathlessness,history_of_alcohol_consumption,,,
+Urinary tract infection,swollen_legs,weight_loss,sunken_eyes,nodal_skin_eruptions,congestion,swelling_joints,pus_filled_pimples,
+Peptic ulcer disease,vomiting,continuous_feel_of_urine,swollen_legs,toxic_look_(typhos),,,,
+Tuberculosis,weight_loss,unsteadiness,brittle_nails,bloody_stool,,,,
+Migraine,swelling_joints,pain_during_bowel_movements,acidity,family_history,,,,
+Cervical spondylosis,congestion,extra_marital_contacts,cold_hands_and_feets,swelling_joints,polyuria,pus_filled_pimples,,
+Urinary tract infection,pus_filled_pimples,swelling_joints,nodal_skin_eruptions,congestion,weight_loss,swollen_legs,sunken_eyes,
+Hepatitis E,weakness_in_limbs,chills,pain_during_bowel_movements,cold_hands_and_feets,loss_of_smell,,,
+Dengue,swelling_of_stomach,mild_fever,painful_walking,sweating,itching,swollen_legs,knee_pain,
+Hypoglycemia,blurred_and_distorted_vision,blister,diarrhoea,slurred_speech,chest_pain,receiving_unsterile_injections,,
+Arthritis,small_dents_in_nails,mucoid_sputum,lethargy,malaise,mild_fever,bloody_stool,weight_gain,mood_swings
+Vertigo,lethargy,receiving_blood_transfusion,muscle_wasting,dizziness,,,,
+Common Cold,neck_pain,nausea,silver_like_dusting,blurred_and_distorted_vision,high_fever,congestion,rusty_sputum,
+Hepatitis C,congestion,yellowing_of_eyes,receiving_unsterile_injections,swollen_legs,silver_like_dusting,,,
+Dimorphic hemmorhoids(piles),fatigue,anxiety,sweating,sunken_eyes,dizziness,loss_of_smell,mucoid_sputum,
+Heart attack,pain_behind_the_eyes,receiving_unsterile_injections,prominent_veins_on_calf,blurred_and_distorted_vision,swelled_lymph_nodes,,,
+Chicken pox,scurring,nodal_skin_eruptions,dehydration,swollen_blood_vessels,slurred_speech,bladder_discomfort,indigestion,cramps
+Hepatitis D,altered_sensorium,history_of_alcohol_consumption,dizziness,headache,stiff_neck,family_history,palpitations,redness_of_eyes
+Hepatitis C,congestion,swollen_legs,receiving_unsterile_injections,yellowing_of_eyes,silver_like_dusting,,,
+Hepatitis D,palpitations,redness_of_eyes,dizziness,headache,stiff_neck,family_history,history_of_alcohol_consumption,altered_sensorium
+Malaria,belly_pain,abnormal_menstruation,mild_fever,cold_hands_and_feets,receiving_unsterile_injections,,,
+Cervical spondylosis,pus_filled_pimples,extra_marital_contacts,cold_hands_and_feets,swelling_joints,polyuria,congestion,,
+Diabetes,pain_in_anal_region,drying_and_tingling_lips,lethargy,pain_during_bowel_movements,,,,
+Psoriasis,muscle_pain,neck_pain,mood_swings,swollen_extremeties,passage_of_gases,,,
+Psoriasis,passage_of_gases,mood_swings,swollen_extremeties,muscle_pain,neck_pain,,,
+Hypothyroidism,cough,blister,continuous_sneezing,yellowing_of_eyes,congestion,rusty_sputum,inflammatory_nails,bloody_stool
+Chronic cholestasis,bladder_discomfort,mild_fever,weakness_in_limbs,prominent_veins_on_calf,receiving_blood_transfusion,skin_rash,brittle_nails,receiving_unsterile_injections
+Heart attack,pain_behind_the_eyes,swelled_lymph_nodes,prominent_veins_on_calf,receiving_unsterile_injections,blurred_and_distorted_vision,,,
+Fungal infection,neck_pain,joint_pain,fast_heart_rate,enlarged_thyroid,,,,
+Hepatitis B,mood_swings,patches_in_throat,lethargy,dark_urine,blister,,,
+Malaria,mild_fever,receiving_unsterile_injections,belly_pain,abnormal_menstruation,cold_hands_and_feets,,,
+Hepatitis E,chills,cold_hands_and_feets,weakness_in_limbs,pain_during_bowel_movements,loss_of_smell,,,
+Common Cold,congestion,rusty_sputum,nausea,neck_pain,high_fever,silver_like_dusting,blurred_and_distorted_vision,
+Migraine,family_history,pain_during_bowel_movements,swelling_joints,acidity,,,,
+AIDS,mood_swings,yellowish_skin,depression,slurred_speech,red_spots_over_body,lethargy,phlegm,
+Bronchial Asthma,weight_loss,runny_nose,muscle_pain,swollen_blood_vessels,internal_itching,,,
+Common Cold,congestion,high_fever,blurred_and_distorted_vision,silver_like_dusting,rusty_sputum,nausea,neck_pain,
+Chicken pox,nodal_skin_eruptions,swollen_blood_vessels,dehydration,bladder_discomfort,cramps,slurred_speech,indigestion,scurring
+Varicose veins,sunken_eyes,dizziness,restlessness,blood_in_sputum,blackheads,burning_micturition,,
+Chicken pox,indigestion,scurring,cramps,dehydration,slurred_speech,swollen_blood_vessels,nodal_skin_eruptions,bladder_discomfort
+Common Cold,neck_pain,high_fever,blurred_and_distorted_vision,nausea,rusty_sputum,silver_like_dusting,congestion,
+Typhoid,throat_irritation,diarrhoea,red_sore_around_nose,yellow_urine,itching,shivering,altered_sensorium,spinning_movements
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,swollen_legs,vomiting,,,,
+Heart attack,blurred_and_distorted_vision,receiving_unsterile_injections,pain_behind_the_eyes,swelled_lymph_nodes,prominent_veins_on_calf,,,
+Common Cold,nausea,silver_like_dusting,congestion,neck_pain,high_fever,rusty_sputum,blurred_and_distorted_vision,
+Hypertension,acute_liver_failure,weakness_in_limbs,blackheads,belly_pain,loss_of_balance,yellow_urine,neck_pain,puffy_face_and_eyes
+Urinary tract infection,swelling_joints,sunken_eyes,weight_loss,swollen_legs,nodal_skin_eruptions,pus_filled_pimples,congestion,
+Common Cold,neck_pain,rusty_sputum,silver_like_dusting,blurred_and_distorted_vision,congestion,high_fever,nausea,
+Chicken pox,bladder_discomfort,nodal_skin_eruptions,swollen_blood_vessels,scurring,indigestion,dehydration,slurred_speech,cramps
+Varicose veins,restlessness,blood_in_sputum,dizziness,burning_micturition,blackheads,sunken_eyes,,
+AIDS,slurred_speech,phlegm,mood_swings,yellowish_skin,red_spots_over_body,depression,lethargy,
+Hepatitis A,irritation_in_anus,weight_gain,depression,muscle_weakness,,,,
+Dimorphic hemmorhoids(piles),mucoid_sputum,anxiety,fatigue,loss_of_smell,dizziness,sunken_eyes,sweating,
+Hepatitis D,redness_of_eyes,stiff_neck,history_of_alcohol_consumption,family_history,dizziness,altered_sensorium,headache,palpitations
+Gastroenteritis,belly_pain,irritability,painful_walking,brittle_nails,,,,
+Impetigo,history_of_alcohol_consumption,hip_joint_pain,nodal_skin_eruptions,knee_pain,breathlessness,,,
+Hepatitis D,headache,family_history,palpitations,altered_sensorium,redness_of_eyes,stiff_neck,history_of_alcohol_consumption,dizziness
+Common Cold,blurred_and_distorted_vision,rusty_sputum,neck_pain,congestion,high_fever,nausea,silver_like_dusting,
+Hepatitis D,palpitations,family_history,stiff_neck,headache,redness_of_eyes,dizziness,altered_sensorium,history_of_alcohol_consumption
+Fungal infection,neck_pain,joint_pain,enlarged_thyroid,fast_heart_rate,,,,
+Fungal infection,fast_heart_rate,enlarged_thyroid,joint_pain,neck_pain,,,,
+Arthritis,weight_gain,small_dents_in_nails,malaise,mucoid_sputum,mood_swings,mild_fever,lethargy,bloody_stool
+Chicken pox,scurring,dehydration,swollen_blood_vessels,nodal_skin_eruptions,slurred_speech,bladder_discomfort,indigestion,cramps
+Common Cold,silver_like_dusting,blurred_and_distorted_vision,neck_pain,rusty_sputum,high_fever,congestion,nausea,
+Impetigo,history_of_alcohol_consumption,nodal_skin_eruptions,hip_joint_pain,breathlessness,knee_pain,,,
+Cervical spondylosis,extra_marital_contacts,pus_filled_pimples,polyuria,congestion,cold_hands_and_feets,swelling_joints,,
+Migraine,family_history,swelling_joints,acidity,pain_during_bowel_movements,,,,
+Gastroenteritis,brittle_nails,belly_pain,painful_walking,irritability,,,,
+Jaundice,yellow_crust_ooze,cough,burning_micturition,dehydration,pain_behind_the_eyes,weakness_in_limbs,,
+Hepatitis C,silver_like_dusting,congestion,yellowing_of_eyes,swollen_legs,receiving_unsterile_injections,,,
+Heart attack,prominent_veins_on_calf,receiving_unsterile_injections,swelled_lymph_nodes,pain_behind_the_eyes,blurred_and_distorted_vision,,,
+Chronic cholestasis,weakness_in_limbs,prominent_veins_on_calf,bladder_discomfort,mild_fever,receiving_blood_transfusion,brittle_nails,receiving_unsterile_injections,skin_rash
+Chicken pox,swollen_blood_vessels,nodal_skin_eruptions,indigestion,cramps,bladder_discomfort,scurring,slurred_speech,dehydration
+Malaria,cold_hands_and_feets,belly_pain,abnormal_menstruation,receiving_unsterile_injections,mild_fever,,,
+Hypoglycemia,receiving_unsterile_injections,diarrhoea,slurred_speech,blurred_and_distorted_vision,blister,chest_pain,,
+Hepatitis B,dark_urine,mood_swings,blister,lethargy,patches_in_throat,,,
+Chicken pox,swollen_blood_vessels,indigestion,scurring,dehydration,cramps,nodal_skin_eruptions,bladder_discomfort,slurred_speech
+Diabetes,pain_during_bowel_movements,pain_in_anal_region,lethargy,drying_and_tingling_lips,,,,
+Hepatitis B,blister,dark_urine,mood_swings,patches_in_throat,lethargy,,,
+Tuberculosis,brittle_nails,bloody_stool,unsteadiness,weight_loss,,,,
+Acne,nausea,irritation_in_anus,swelling_joints,sinus_pressure,obesity,swollen_legs,polyuria,knee_pain
+Hypertension,neck_pain,weakness_in_limbs,blackheads,yellow_urine,belly_pain,puffy_face_and_eyes,acute_liver_failure,loss_of_balance
+Chronic cholestasis,prominent_veins_on_calf,receiving_unsterile_injections,brittle_nails,receiving_blood_transfusion,skin_rash,weakness_in_limbs,bladder_discomfort,mild_fever
+Jaundice,cough,weakness_in_limbs,pain_behind_the_eyes,dehydration,burning_micturition,yellow_crust_ooze,,
+Allergy,irregular_sugar_level,breathlessness,stomach_pain,receiving_unsterile_injections,acidity,,,
+Chicken pox,slurred_speech,cramps,swollen_blood_vessels,nodal_skin_eruptions,dehydration,bladder_discomfort,indigestion,scurring
+Cervical spondylosis,cold_hands_and_feets,extra_marital_contacts,pus_filled_pimples,swelling_joints,congestion,polyuria,,
+Dengue,swollen_legs,itching,mild_fever,painful_walking,sweating,swelling_of_stomach,knee_pain,
+Dimorphic hemmorhoids(piles),mucoid_sputum,fatigue,sunken_eyes,sweating,loss_of_smell,dizziness,anxiety,
+Impetigo,hip_joint_pain,history_of_alcohol_consumption,nodal_skin_eruptions,knee_pain,breathlessness,,,
+Allergy,irregular_sugar_level,breathlessness,acidity,receiving_unsterile_injections,stomach_pain,,,
+Hepatitis B,blister,patches_in_throat,dark_urine,mood_swings,lethargy,,,
+Arthritis,small_dents_in_nails,mild_fever,bloody_stool,lethargy,mood_swings,mucoid_sputum,malaise,weight_gain
+Diabetes,drying_and_tingling_lips,pain_in_anal_region,lethargy,pain_during_bowel_movements,,,,
+GERD,throat_irritation,joint_pain,chest_pain,pain_in_anal_region,,,,
+Cervical spondylosis,polyuria,swelling_joints,pus_filled_pimples,congestion,extra_marital_contacts,cold_hands_and_feets,,
+Vertigo,dizziness,muscle_wasting,lethargy,receiving_blood_transfusion,,,,
+Hypoglycemia,blurred_and_distorted_vision,blister,receiving_unsterile_injections,diarrhoea,chest_pain,slurred_speech,,
+Jaundice,yellow_crust_ooze,pain_behind_the_eyes,cough,dehydration,weakness_in_limbs,burning_micturition,,
+Peptic ulcer disease,continuous_feel_of_urine,toxic_look_(typhos),swollen_legs,vomiting,,,,
+Hepatitis E,chills,cold_hands_and_feets,loss_of_smell,pain_during_bowel_movements,weakness_in_limbs,,,
+Psoriasis,mood_swings,muscle_pain,swollen_extremeties,passage_of_gases,neck_pain,,,
+Hepatitis A,muscle_weakness,irritation_in_anus,weight_gain,depression,,,,
+AIDS,mood_swings,lethargy,yellowish_skin,slurred_speech,depression,red_spots_over_body,phlegm,
+Hypoglycemia,receiving_unsterile_injections,blurred_and_distorted_vision,diarrhoea,slurred_speech,blister,chest_pain,,
+AIDS,yellowish_skin,red_spots_over_body,slurred_speech,lethargy,depression,phlegm,mood_swings,
+Pneumonia,internal_itching,receiving_unsterile_injections,lack_of_concentration,stomach_bleeding,,,,
+Arthritis,small_dents_in_nails,mood_swings,mucoid_sputum,lethargy,mild_fever,weight_gain,malaise,bloody_stool
+Arthritis,small_dents_in_nails,mild_fever,mucoid_sputum,malaise,lethargy,weight_gain,bloody_stool,mood_swings
+Urinary tract infection,swelling_joints,nodal_skin_eruptions,pus_filled_pimples,swollen_legs,congestion,sunken_eyes,weight_loss,
+Hepatitis E,chills,cold_hands_and_feets,loss_of_smell,weakness_in_limbs,pain_during_bowel_movements,,,
+GERD,pain_in_anal_region,chest_pain,throat_irritation,joint_pain,,,,
+Hypoglycemia,slurred_speech,blurred_and_distorted_vision,chest_pain,receiving_unsterile_injections,diarrhoea,blister,,
+Paralysis (brain hemorrhage),coma,pain_behind_the_eyes,family_history,swollen_legs,dizziness,,,
+Arthritis,mild_fever,malaise,mood_swings,mucoid_sputum,lethargy,bloody_stool,small_dents_in_nails,weight_gain
+Chicken pox,indigestion,scurring,dehydration,nodal_skin_eruptions,slurred_speech,cramps,swollen_blood_vessels,bladder_discomfort
+Vertigo,muscle_wasting,dizziness,lethargy,receiving_blood_transfusion,,,,
+Drug Reaction,cough,chest_pain,diarrhoea,breathlessness,loss_of_smell,belly_pain,,
+Vertigo,receiving_blood_transfusion,muscle_wasting,lethargy,dizziness,,,,
+GERD,pain_in_anal_region,joint_pain,chest_pain,throat_irritation,,,,
+Hepatitis C,congestion,silver_like_dusting,yellowing_of_eyes,receiving_unsterile_injections,swollen_legs,,,
+Jaundice,cough,pain_behind_the_eyes,yellow_crust_ooze,weakness_in_limbs,burning_micturition,dehydration,,
+Chronic cholestasis,receiving_unsterile_injections,mild_fever,brittle_nails,weakness_in_limbs,prominent_veins_on_calf,receiving_blood_transfusion,bladder_discomfort,skin_rash
+Bronchial Asthma,runny_nose,weight_loss,internal_itching,swollen_blood_vessels,muscle_pain,,,
+Jaundice,pain_behind_the_eyes,burning_micturition,weakness_in_limbs,dehydration,yellow_crust_ooze,cough,,
+Hepatitis C,yellowing_of_eyes,congestion,swollen_legs,receiving_unsterile_injections,silver_like_dusting,,,
+Arthritis,mild_fever,mood_swings,mucoid_sputum,malaise,lethargy,small_dents_in_nails,weight_gain,bloody_stool
+Gastroenteritis,brittle_nails,belly_pain,painful_walking,irritability,,,,
+Hypothyroidism,yellowing_of_eyes,bloody_stool,continuous_sneezing,congestion,cough,rusty_sputum,blister,inflammatory_nails
+Dengue,swelling_of_stomach,painful_walking,sweating,mild_fever,itching,swollen_legs,knee_pain,
+Pneumonia,lack_of_concentration,stomach_bleeding,internal_itching,receiving_unsterile_injections,,,,
+Hepatitis B,dark_urine,mood_swings,patches_in_throat,lethargy,blister,,,
+Hepatitis D,palpitations,family_history,headache,redness_of_eyes,altered_sensorium,stiff_neck,history_of_alcohol_consumption,dizziness
+Hepatitis E,weakness_in_limbs,chills,pain_during_bowel_movements,cold_hands_and_feets,loss_of_smell,,,
+Malaria,cold_hands_and_feets,mild_fever,abnormal_menstruation,receiving_unsterile_injections,belly_pain,,,
+Hepatitis C,congestion,receiving_unsterile_injections,yellowing_of_eyes,swollen_legs,silver_like_dusting,,,
+Allergy,acidity,breathlessness,stomach_pain,irregular_sugar_level,receiving_unsterile_injections,,,
+Paralysis (brain hemorrhage),swollen_legs,pain_behind_the_eyes,coma,dizziness,family_history,,,
+Psoriasis,neck_pain,muscle_pain,swollen_extremeties,passage_of_gases,mood_swings,,,
+Chicken pox,indigestion,swollen_blood_vessels,dehydration,bladder_discomfort,cramps,slurred_speech,scurring,nodal_skin_eruptions
+Fungal infection,fast_heart_rate,neck_pain,enlarged_thyroid,joint_pain,,,,
+Hepatitis E,pain_during_bowel_movements,chills,loss_of_smell,weakness_in_limbs,cold_hands_and_feets,,,
+Jaundice,dehydration,yellow_crust_ooze,pain_behind_the_eyes,weakness_in_limbs,burning_micturition,cough,,
+Urinary tract infection,congestion,pus_filled_pimples,nodal_skin_eruptions,swollen_legs,weight_loss,swelling_joints,sunken_eyes,
+Arthritis,bloody_stool,lethargy,mood_swings,weight_gain,malaise,mild_fever,mucoid_sputum,small_dents_in_nails
+Tuberculosis,bloody_stool,brittle_nails,unsteadiness,weight_loss,,,,
+Hepatitis D,altered_sensorium,history_of_alcohol_consumption,redness_of_eyes,headache,stiff_neck,family_history,dizziness,palpitations
+Alcoholic hepatitis,mood_swings,anxiety,pain_during_bowel_movements,weight_loss,,,,
+Jaundice,dehydration,weakness_in_limbs,burning_micturition,cough,yellow_crust_ooze,pain_behind_the_eyes,,
+Peptic ulcer disease,continuous_feel_of_urine,toxic_look_(typhos),swollen_legs,vomiting,,,,
+Common Cold,congestion,silver_like_dusting,blurred_and_distorted_vision,neck_pain,high_fever,rusty_sputum,nausea,
+Dimorphic hemmorhoids(piles),mucoid_sputum,fatigue,anxiety,dizziness,sweating,sunken_eyes,loss_of_smell,
+Gastroenteritis,brittle_nails,belly_pain,irritability,painful_walking,,,,
+Pneumonia,lack_of_concentration,stomach_bleeding,receiving_unsterile_injections,internal_itching,,,,
+Hepatitis B,blister,patches_in_throat,mood_swings,dark_urine,lethargy,,,
+Bronchial Asthma,weight_loss,swollen_blood_vessels,internal_itching,runny_nose,muscle_pain,,,
+Hepatitis A,depression,muscle_weakness,irritation_in_anus,weight_gain,,,,
+Bronchial Asthma,weight_loss,runny_nose,swollen_blood_vessels,muscle_pain,internal_itching,,,
+Allergy,irregular_sugar_level,breathlessness,acidity,receiving_unsterile_injections,stomach_pain,,,
+Urinary tract infection,pus_filled_pimples,congestion,sunken_eyes,nodal_skin_eruptions,swelling_joints,swollen_legs,weight_loss,
+Gastroenteritis,belly_pain,brittle_nails,painful_walking,irritability,,,,
+Migraine,pain_during_bowel_movements,swelling_joints,acidity,family_history,,,,
+Gastroenteritis,irritability,painful_walking,belly_pain,brittle_nails,,,,
+GERD,joint_pain,pain_in_anal_region,chest_pain,throat_irritation,,,,
+Common Cold,neck_pain,silver_like_dusting,congestion,rusty_sputum,high_fever,blurred_and_distorted_vision,nausea,
+Dimorphic hemmorhoids(piles),sweating,fatigue,sunken_eyes,anxiety,mucoid_sputum,loss_of_smell,dizziness,
+Pneumonia,receiving_unsterile_injections,internal_itching,stomach_bleeding,lack_of_concentration,,,,
+Hepatitis B,patches_in_throat,dark_urine,blister,lethargy,mood_swings,,,
+Dimorphic hemmorhoids(piles),loss_of_smell,sweating,anxiety,dizziness,sunken_eyes,fatigue,mucoid_sputum,
+Arthritis,mucoid_sputum,weight_gain,lethargy,mild_fever,small_dents_in_nails,mood_swings,malaise,bloody_stool
+Tuberculosis,unsteadiness,brittle_nails,weight_loss,bloody_stool,,,,
+Hypertension,puffy_face_and_eyes,loss_of_balance,blackheads,neck_pain,acute_liver_failure,belly_pain,yellow_urine,weakness_in_limbs
+Peptic ulcer disease,continuous_feel_of_urine,swollen_legs,vomiting,toxic_look_(typhos),,,,
+Tuberculosis,unsteadiness,bloody_stool,weight_loss,brittle_nails,,,,
+Allergy,stomach_pain,breathlessness,receiving_unsterile_injections,acidity,irregular_sugar_level,,,
+Heart attack,receiving_unsterile_injections,swelled_lymph_nodes,prominent_veins_on_calf,pain_behind_the_eyes,blurred_and_distorted_vision,,,
+Diabetes,lethargy,drying_and_tingling_lips,pain_in_anal_region,pain_during_bowel_movements,,,,
+Impetigo,knee_pain,hip_joint_pain,breathlessness,history_of_alcohol_consumption,nodal_skin_eruptions,,,
+Hyperthyroidism,swollen_legs,belly_pain,anxiety,painful_walking,itching,yellowing_of_eyes,watering_from_eyes,
+Hepatitis C,receiving_unsterile_injections,swollen_legs,silver_like_dusting,yellowing_of_eyes,congestion,,,
+Migraine,family_history,swelling_joints,acidity,pain_during_bowel_movements,,,,
+Hepatitis A,irritation_in_anus,depression,muscle_weakness,weight_gain,,,,
+Diabetes,pain_in_anal_region,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,,,,
+Psoriasis,muscle_pain,swollen_extremeties,mood_swings,passage_of_gases,neck_pain,,,
+Hypothyroidism,congestion,blister,bloody_stool,inflammatory_nails,cough,yellowing_of_eyes,rusty_sputum,continuous_sneezing
+Heart attack,prominent_veins_on_calf,pain_behind_the_eyes,blurred_and_distorted_vision,swelled_lymph_nodes,receiving_unsterile_injections,,,
+Malaria,receiving_unsterile_injections,mild_fever,abnormal_menstruation,cold_hands_and_feets,belly_pain,,,
+Chronic cholestasis,receiving_unsterile_injections,skin_rash,brittle_nails,mild_fever,bladder_discomfort,receiving_blood_transfusion,weakness_in_limbs,prominent_veins_on_calf
+Vertigo,receiving_blood_transfusion,dizziness,muscle_wasting,lethargy,,,,
+Chronic cholestasis,skin_rash,receiving_blood_transfusion,receiving_unsterile_injections,prominent_veins_on_calf,mild_fever,bladder_discomfort,brittle_nails,weakness_in_limbs
+Heart attack,prominent_veins_on_calf,receiving_unsterile_injections,blurred_and_distorted_vision,pain_behind_the_eyes,swelled_lymph_nodes,,,
+Hepatitis A,depression,weight_gain,muscle_weakness,irritation_in_anus,,,,
+Drug Reaction,belly_pain,loss_of_smell,chest_pain,diarrhoea,cough,breathlessness,,
+Gastroenteritis,irritability,brittle_nails,painful_walking,belly_pain,,,,
+Hepatitis C,yellowing_of_eyes,silver_like_dusting,swollen_legs,receiving_unsterile_injections,congestion,,,
+Paralysis (brain hemorrhage),pain_behind_the_eyes,dizziness,coma,swollen_legs,family_history,,,
+Varicose veins,blackheads,blood_in_sputum,dizziness,restlessness,sunken_eyes,burning_micturition,,
+Chicken pox,scurring,dehydration,nodal_skin_eruptions,indigestion,slurred_speech,swollen_blood_vessels,cramps,bladder_discomfort
+Hypothyroidism,yellowing_of_eyes,inflammatory_nails,continuous_sneezing,blister,congestion,cough,rusty_sputum,bloody_stool
+Allergy,irregular_sugar_level,stomach_pain,receiving_unsterile_injections,breathlessness,acidity,,,
+Psoriasis,neck_pain,mood_swings,passage_of_gases,swollen_extremeties,muscle_pain,,,
+Hepatitis D,dizziness,headache,history_of_alcohol_consumption,family_history,stiff_neck,palpitations,redness_of_eyes,altered_sensorium
+Hepatitis A,depression,muscle_weakness,weight_gain,irritation_in_anus,,,,
+Fungal infection,fast_heart_rate,enlarged_thyroid,neck_pain,joint_pain,,,,
+Hepatitis C,yellowing_of_eyes,swollen_legs,congestion,silver_like_dusting,receiving_unsterile_injections,,,
+Hepatitis C,congestion,silver_like_dusting,yellowing_of_eyes,receiving_unsterile_injections,swollen_legs,,,
+Gastroenteritis,painful_walking,brittle_nails,belly_pain,irritability,,,,
+Osteoarthristis,anxiety,burning_micturition,swelling_joints,weight_gain,,,,
+Chronic cholestasis,receiving_unsterile_injections,weakness_in_limbs,brittle_nails,receiving_blood_transfusion,prominent_veins_on_calf,mild_fever,bladder_discomfort,skin_rash
+Hepatitis D,altered_sensorium,history_of_alcohol_consumption,headache,palpitations,redness_of_eyes,family_history,dizziness,stiff_neck
+Vertigo,muscle_wasting,lethargy,dizziness,receiving_blood_transfusion,,,,
+Hepatitis A,muscle_weakness,depression,weight_gain,irritation_in_anus,,,,
+Dengue,sweating,itching,swelling_of_stomach,painful_walking,knee_pain,mild_fever,swollen_legs,
+Hepatitis A,depression,weight_gain,irritation_in_anus,muscle_weakness,,,,
+Migraine,swelling_joints,family_history,acidity,pain_during_bowel_movements,,,,
+Cervical spondylosis,swelling_joints,polyuria,congestion,pus_filled_pimples,extra_marital_contacts,cold_hands_and_feets,,
+Cervical spondylosis,polyuria,cold_hands_and_feets,congestion,pus_filled_pimples,extra_marital_contacts,swelling_joints,,
+AIDS,slurred_speech,yellowish_skin,lethargy,phlegm,red_spots_over_body,depression,mood_swings,
+Heart attack,pain_behind_the_eyes,prominent_veins_on_calf,swelled_lymph_nodes,blurred_and_distorted_vision,receiving_unsterile_injections,,,
+GERD,throat_irritation,joint_pain,pain_in_anal_region,chest_pain,,,,
+GERD,throat_irritation,pain_in_anal_region,joint_pain,chest_pain,,,,
+Allergy,irregular_sugar_level,breathlessness,acidity,receiving_unsterile_injections,stomach_pain,,,
+Hepatitis B,lethargy,blister,mood_swings,dark_urine,patches_in_throat,,,
+Osteoarthristis,burning_micturition,anxiety,swelling_joints,weight_gain,,,,
+Dengue,sweating,swelling_of_stomach,swollen_legs,mild_fever,itching,knee_pain,painful_walking,
+Paralysis (brain hemorrhage),swollen_legs,pain_behind_the_eyes,coma,dizziness,family_history,,,
+Dengue,swollen_legs,swelling_of_stomach,mild_fever,knee_pain,itching,sweating,painful_walking,
+Hepatitis A,depression,muscle_weakness,weight_gain,irritation_in_anus,,,,
+Chronic cholestasis,bladder_discomfort,mild_fever,weakness_in_limbs,skin_rash,receiving_unsterile_injections,brittle_nails,receiving_blood_transfusion,prominent_veins_on_calf
+Peptic ulcer disease,swollen_legs,toxic_look_(typhos),continuous_feel_of_urine,vomiting,,,,
+Urinary tract infection,swelling_joints,swollen_legs,weight_loss,nodal_skin_eruptions,pus_filled_pimples,congestion,sunken_eyes,
+Cervical spondylosis,swelling_joints,extra_marital_contacts,congestion,cold_hands_and_feets,polyuria,pus_filled_pimples,,
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),vomiting,,,,
+Hepatitis A,irritation_in_anus,depression,muscle_weakness,weight_gain,,,,
+Jaundice,weakness_in_limbs,cough,dehydration,yellow_crust_ooze,burning_micturition,pain_behind_the_eyes,,
+Migraine,pain_during_bowel_movements,family_history,acidity,swelling_joints,,,,
+Hypothyroidism,rusty_sputum,blister,cough,bloody_stool,inflammatory_nails,yellowing_of_eyes,congestion,continuous_sneezing
+Hypertension,blackheads,acute_liver_failure,puffy_face_and_eyes,neck_pain,loss_of_balance,yellow_urine,weakness_in_limbs,belly_pain
+Tuberculosis,bloody_stool,brittle_nails,weight_loss,unsteadiness,,,,
+Hepatitis A,depression,irritation_in_anus,muscle_weakness,weight_gain,,,,
+Malaria,abnormal_menstruation,mild_fever,cold_hands_and_feets,receiving_unsterile_injections,belly_pain,,,
+Varicose veins,burning_micturition,dizziness,sunken_eyes,restlessness,blackheads,blood_in_sputum,,
+Pneumonia,internal_itching,stomach_bleeding,lack_of_concentration,receiving_unsterile_injections,,,,
+Migraine,family_history,acidity,swelling_joints,pain_during_bowel_movements,,,,
+Diabetes,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,pain_in_anal_region,,,,
+Dimorphic hemmorhoids(piles),dizziness,loss_of_smell,sweating,fatigue,mucoid_sputum,anxiety,sunken_eyes,
+Urinary tract infection,weight_loss,swelling_joints,sunken_eyes,congestion,nodal_skin_eruptions,pus_filled_pimples,swollen_legs,
+Peptic ulcer disease,vomiting,swollen_legs,toxic_look_(typhos),continuous_feel_of_urine,,,,
+Bronchial Asthma,muscle_pain,weight_loss,runny_nose,swollen_blood_vessels,internal_itching,,,
+Alcoholic hepatitis,anxiety,pain_during_bowel_movements,weight_loss,mood_swings,,,,
+Hepatitis B,lethargy,mood_swings,patches_in_throat,dark_urine,blister,,,
+Peptic ulcer disease,vomiting,continuous_feel_of_urine,swollen_legs,toxic_look_(typhos),,,,
+Gastroenteritis,irritability,brittle_nails,belly_pain,painful_walking,,,,
+Arthritis,lethargy,mild_fever,bloody_stool,weight_gain,malaise,mood_swings,mucoid_sputum,small_dents_in_nails
+Allergy,breathlessness,stomach_pain,receiving_unsterile_injections,acidity,irregular_sugar_level,,,
+Impetigo,history_of_alcohol_consumption,breathlessness,hip_joint_pain,knee_pain,nodal_skin_eruptions,,,
+Pneumonia,lack_of_concentration,stomach_bleeding,receiving_unsterile_injections,internal_itching,,,,
+Varicose veins,blackheads,restlessness,sunken_eyes,blood_in_sputum,burning_micturition,dizziness,,
+Bronchial Asthma,swollen_blood_vessels,weight_loss,muscle_pain,internal_itching,runny_nose,,,
+Drug Reaction,cough,breathlessness,loss_of_smell,chest_pain,diarrhoea,belly_pain,,
+Pneumonia,lack_of_concentration,receiving_unsterile_injections,stomach_bleeding,internal_itching,,,,
+Common Cold,nausea,congestion,silver_like_dusting,blurred_and_distorted_vision,rusty_sputum,neck_pain,high_fever,
+Heart attack,blurred_and_distorted_vision,prominent_veins_on_calf,pain_behind_the_eyes,receiving_unsterile_injections,swelled_lymph_nodes,,,
+Alcoholic hepatitis,anxiety,mood_swings,weight_loss,pain_during_bowel_movements,,,,
+Pneumonia,lack_of_concentration,internal_itching,receiving_unsterile_injections,stomach_bleeding,,,,
+Malaria,mild_fever,abnormal_menstruation,receiving_unsterile_injections,cold_hands_and_feets,belly_pain,,,
+GERD,throat_irritation,pain_in_anal_region,joint_pain,chest_pain,,,,
+Hepatitis E,loss_of_smell,weakness_in_limbs,chills,pain_during_bowel_movements,cold_hands_and_feets,,,
+Bronchial Asthma,swollen_blood_vessels,muscle_pain,internal_itching,runny_nose,weight_loss,,,
+Hypoglycemia,diarrhoea,chest_pain,blurred_and_distorted_vision,blister,receiving_unsterile_injections,slurred_speech,,
+Impetigo,hip_joint_pain,history_of_alcohol_consumption,knee_pain,nodal_skin_eruptions,breathlessness,,,
+Hepatitis C,receiving_unsterile_injections,swollen_legs,yellowing_of_eyes,silver_like_dusting,congestion,,,
+Hyperthyroidism,anxiety,swollen_legs,yellowing_of_eyes,painful_walking,belly_pain,watering_from_eyes,itching,
+Typhoid,red_sore_around_nose,diarrhoea,yellow_urine,shivering,itching,spinning_movements,throat_irritation,altered_sensorium
+Chronic cholestasis,brittle_nails,mild_fever,prominent_veins_on_calf,receiving_blood_transfusion,receiving_unsterile_injections,weakness_in_limbs,skin_rash,bladder_discomfort
+Psoriasis,muscle_pain,swollen_extremeties,mood_swings,neck_pain,passage_of_gases,,,
+Gastroenteritis,irritability,painful_walking,brittle_nails,belly_pain,,,,
+Gastroenteritis,belly_pain,irritability,brittle_nails,painful_walking,,,,
+Fungal infection,enlarged_thyroid,fast_heart_rate,neck_pain,joint_pain,,,,
+Acne,swollen_legs,swelling_joints,nausea,obesity,knee_pain,irritation_in_anus,polyuria,sinus_pressure
+Hypothyroidism,cough,yellowing_of_eyes,blister,congestion,continuous_sneezing,rusty_sputum,inflammatory_nails,bloody_stool
+Urinary tract infection,nodal_skin_eruptions,swelling_joints,congestion,sunken_eyes,pus_filled_pimples,weight_loss,swollen_legs,
+Dimorphic hemmorhoids(piles),fatigue,mucoid_sputum,anxiety,loss_of_smell,sunken_eyes,dizziness,sweating,
+Chronic cholestasis,bladder_discomfort,prominent_veins_on_calf,brittle_nails,weakness_in_limbs,mild_fever,receiving_blood_transfusion,receiving_unsterile_injections,skin_rash
+Varicose veins,blackheads,burning_micturition,sunken_eyes,dizziness,blood_in_sputum,restlessness,,
+Varicose veins,burning_micturition,sunken_eyes,blackheads,blood_in_sputum,dizziness,restlessness,,
+Dimorphic hemmorhoids(piles),loss_of_smell,sunken_eyes,dizziness,fatigue,anxiety,sweating,mucoid_sputum,
+Pneumonia,stomach_bleeding,lack_of_concentration,internal_itching,receiving_unsterile_injections,,,,
+Dengue,swelling_of_stomach,sweating,painful_walking,swollen_legs,itching,mild_fever,knee_pain,
+Acne,nausea,swelling_joints,knee_pain,polyuria,obesity,sinus_pressure,swollen_legs,irritation_in_anus
+Fungal infection,neck_pain,enlarged_thyroid,fast_heart_rate,joint_pain,,,,
+AIDS,mood_swings,red_spots_over_body,phlegm,lethargy,slurred_speech,yellowish_skin,depression,
+Chicken pox,cramps,nodal_skin_eruptions,slurred_speech,bladder_discomfort,swollen_blood_vessels,dehydration,scurring,indigestion
+Urinary tract infection,weight_loss,pus_filled_pimples,nodal_skin_eruptions,sunken_eyes,swollen_legs,swelling_joints,congestion,
+Alcoholic hepatitis,mood_swings,pain_during_bowel_movements,weight_loss,anxiety,,,,
+Chicken pox,slurred_speech,nodal_skin_eruptions,cramps,dehydration,scurring,bladder_discomfort,indigestion,swollen_blood_vessels
+Hepatitis B,dark_urine,mood_swings,lethargy,patches_in_throat,blister,,,
+Chronic cholestasis,bladder_discomfort,skin_rash,weakness_in_limbs,mild_fever,receiving_blood_transfusion,prominent_veins_on_calf,brittle_nails,receiving_unsterile_injections
+Dimorphic hemmorhoids(piles),anxiety,loss_of_smell,dizziness,sweating,sunken_eyes,mucoid_sputum,fatigue,
+AIDS,phlegm,yellowish_skin,lethargy,mood_swings,slurred_speech,depression,red_spots_over_body,
+Dimorphic hemmorhoids(piles),sunken_eyes,dizziness,mucoid_sputum,loss_of_smell,fatigue,anxiety,sweating,
+Vertigo,receiving_blood_transfusion,dizziness,muscle_wasting,lethargy,,,,
+Hypothyroidism,yellowing_of_eyes,cough,congestion,rusty_sputum,continuous_sneezing,inflammatory_nails,blister,bloody_stool
+Dengue,knee_pain,mild_fever,swelling_of_stomach,swollen_legs,itching,sweating,painful_walking,
+Hyperthyroidism,belly_pain,anxiety,yellowing_of_eyes,watering_from_eyes,painful_walking,itching,swollen_legs,
+Osteoarthristis,weight_gain,burning_micturition,anxiety,swelling_joints,,,,
+Varicose veins,burning_micturition,blood_in_sputum,dizziness,restlessness,sunken_eyes,blackheads,,
+Tuberculosis,weight_loss,brittle_nails,bloody_stool,unsteadiness,,,,
+Hepatitis E,pain_during_bowel_movements,loss_of_smell,cold_hands_and_feets,chills,weakness_in_limbs,,,
+Typhoid,red_sore_around_nose,spinning_movements,altered_sensorium,shivering,throat_irritation,itching,diarrhoea,yellow_urine
+Hepatitis A,irritation_in_anus,muscle_weakness,depression,weight_gain,,,,
+Hypothyroidism,inflammatory_nails,bloody_stool,continuous_sneezing,rusty_sputum,congestion,yellowing_of_eyes,blister,cough
+Allergy,breathlessness,receiving_unsterile_injections,acidity,irregular_sugar_level,stomach_pain,,,
+Drug Reaction,diarrhoea,chest_pain,belly_pain,breathlessness,loss_of_smell,cough,,
+Allergy,acidity,irregular_sugar_level,stomach_pain,receiving_unsterile_injections,breathlessness,,,
+GERD,pain_in_anal_region,joint_pain,chest_pain,throat_irritation,,,,
+Hypoglycemia,chest_pain,receiving_unsterile_injections,diarrhoea,blister,slurred_speech,blurred_and_distorted_vision,,
+Drug Reaction,cough,belly_pain,loss_of_smell,breathlessness,chest_pain,diarrhoea,,
+Varicose veins,blood_in_sputum,burning_micturition,restlessness,dizziness,blackheads,sunken_eyes,,
+Fungal infection,fast_heart_rate,joint_pain,neck_pain,enlarged_thyroid,,,,
+Hepatitis A,irritation_in_anus,weight_gain,muscle_weakness,depression,,,,
+Acne,knee_pain,swollen_legs,sinus_pressure,irritation_in_anus,polyuria,swelling_joints,nausea,obesity
+Drug Reaction,diarrhoea,belly_pain,cough,loss_of_smell,breathlessness,chest_pain,,
+Hepatitis B,blister,dark_urine,mood_swings,patches_in_throat,lethargy,,,
+GERD,joint_pain,chest_pain,throat_irritation,pain_in_anal_region,,,,
+Diabetes,pain_in_anal_region,drying_and_tingling_lips,pain_during_bowel_movements,lethargy,,,,
+Hypertension,weakness_in_limbs,acute_liver_failure,yellow_urine,loss_of_balance,blackheads,neck_pain,belly_pain,puffy_face_and_eyes
+Gastroenteritis,irritability,brittle_nails,painful_walking,belly_pain,,,,
+Hypertension,neck_pain,yellow_urine,weakness_in_limbs,belly_pain,puffy_face_and_eyes,loss_of_balance,blackheads,acute_liver_failure
+Acne,knee_pain,sinus_pressure,swelling_joints,obesity,nausea,polyuria,irritation_in_anus,swollen_legs
+Impetigo,breathlessness,history_of_alcohol_consumption,hip_joint_pain,knee_pain,nodal_skin_eruptions,,,
+Migraine,acidity,family_history,swelling_joints,pain_during_bowel_movements,,,,
+Hypothyroidism,congestion,rusty_sputum,continuous_sneezing,yellowing_of_eyes,inflammatory_nails,bloody_stool,blister,cough
+Cervical spondylosis,extra_marital_contacts,congestion,swelling_joints,pus_filled_pimples,polyuria,cold_hands_and_feets,,
+Osteoarthristis,weight_gain,anxiety,burning_micturition,swelling_joints,,,,
+Dengue,swelling_of_stomach,swollen_legs,itching,sweating,knee_pain,painful_walking,mild_fever,
+Hypothyroidism,yellowing_of_eyes,inflammatory_nails,congestion,rusty_sputum,continuous_sneezing,blister,cough,bloody_stool
+Typhoid,diarrhoea,itching,throat_irritation,red_sore_around_nose,spinning_movements,altered_sensorium,shivering,yellow_urine
+Chronic cholestasis,receiving_unsterile_injections,bladder_discomfort,skin_rash,mild_fever,brittle_nails,receiving_blood_transfusion,weakness_in_limbs,prominent_veins_on_calf
+Dimorphic hemmorhoids(piles),sweating,sunken_eyes,fatigue,mucoid_sputum,anxiety,dizziness,loss_of_smell,
+Jaundice,cough,burning_micturition,dehydration,pain_behind_the_eyes,yellow_crust_ooze,weakness_in_limbs,,
+Common Cold,silver_like_dusting,rusty_sputum,congestion,blurred_and_distorted_vision,neck_pain,nausea,high_fever,
+Acne,nausea,polyuria,sinus_pressure,swollen_legs,obesity,irritation_in_anus,swelling_joints,knee_pain
+Migraine,swelling_joints,pain_during_bowel_movements,acidity,family_history,,,,
+Heart attack,receiving_unsterile_injections,blurred_and_distorted_vision,swelled_lymph_nodes,pain_behind_the_eyes,prominent_veins_on_calf,,,
+Hepatitis C,congestion,receiving_unsterile_injections,swollen_legs,silver_like_dusting,yellowing_of_eyes,,,
+Dengue,itching,sweating,knee_pain,swelling_of_stomach,swollen_legs,mild_fever,painful_walking,
+Hepatitis C,congestion,silver_like_dusting,receiving_unsterile_injections,swollen_legs,yellowing_of_eyes,,,
+Impetigo,knee_pain,history_of_alcohol_consumption,nodal_skin_eruptions,hip_joint_pain,breathlessness,,,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,swollen_legs,vomiting,,,,
+Paralysis (brain hemorrhage),swollen_legs,dizziness,pain_behind_the_eyes,coma,family_history,,,
+Fungal infection,enlarged_thyroid,joint_pain,neck_pain,fast_heart_rate,,,,
+Malaria,receiving_unsterile_injections,mild_fever,belly_pain,abnormal_menstruation,cold_hands_and_feets,,,
+Acne,knee_pain,obesity,nausea,polyuria,irritation_in_anus,swelling_joints,swollen_legs,sinus_pressure
+Hyperthyroidism,belly_pain,painful_walking,yellowing_of_eyes,swollen_legs,watering_from_eyes,itching,anxiety,
+Dimorphic hemmorhoids(piles),dizziness,sweating,anxiety,loss_of_smell,fatigue,sunken_eyes,mucoid_sputum,
+Paralysis (brain hemorrhage),coma,swollen_legs,family_history,dizziness,pain_behind_the_eyes,,,
+Peptic ulcer disease,vomiting,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),,,,
+Hypertension,blackheads,yellow_urine,neck_pain,acute_liver_failure,puffy_face_and_eyes,belly_pain,weakness_in_limbs,loss_of_balance
+Gastroenteritis,painful_walking,brittle_nails,belly_pain,irritability,,,,
+Impetigo,hip_joint_pain,breathlessness,nodal_skin_eruptions,history_of_alcohol_consumption,knee_pain,,,
+Alcoholic hepatitis,anxiety,weight_loss,mood_swings,pain_during_bowel_movements,,,,
+Typhoid,yellow_urine,throat_irritation,spinning_movements,diarrhoea,itching,altered_sensorium,shivering,red_sore_around_nose
+Psoriasis,muscle_pain,mood_swings,swollen_extremeties,passage_of_gases,neck_pain,,,
+Chronic cholestasis,skin_rash,mild_fever,bladder_discomfort,receiving_blood_transfusion,receiving_unsterile_injections,prominent_veins_on_calf,brittle_nails,weakness_in_limbs
+Migraine,acidity,family_history,swelling_joints,pain_during_bowel_movements,,,,
+Gastroenteritis,brittle_nails,irritability,belly_pain,painful_walking,,,,
+Varicose veins,blood_in_sputum,blackheads,restlessness,dizziness,sunken_eyes,burning_micturition,,
+Hepatitis B,lethargy,patches_in_throat,mood_swings,dark_urine,blister,,,
+Dengue,sweating,swollen_legs,painful_walking,swelling_of_stomach,itching,knee_pain,mild_fever,
+Hyperthyroidism,swollen_legs,painful_walking,yellowing_of_eyes,belly_pain,itching,anxiety,watering_from_eyes,
+Drug Reaction,loss_of_smell,belly_pain,cough,diarrhoea,breathlessness,chest_pain,,
+Migraine,acidity,family_history,pain_during_bowel_movements,swelling_joints,,,,
+Hypertension,loss_of_balance,yellow_urine,weakness_in_limbs,blackheads,neck_pain,puffy_face_and_eyes,acute_liver_failure,belly_pain
+Hypoglycemia,blurred_and_distorted_vision,slurred_speech,blister,diarrhoea,receiving_unsterile_injections,chest_pain,,
+Varicose veins,dizziness,blackheads,burning_micturition,sunken_eyes,blood_in_sputum,restlessness,,
+Typhoid,spinning_movements,shivering,itching,altered_sensorium,diarrhoea,red_sore_around_nose,throat_irritation,yellow_urine
+Hepatitis B,lethargy,blister,patches_in_throat,dark_urine,mood_swings,,,
+Vertigo,lethargy,dizziness,receiving_blood_transfusion,muscle_wasting,,,,
+Chicken pox,swollen_blood_vessels,cramps,dehydration,scurring,bladder_discomfort,nodal_skin_eruptions,slurred_speech,indigestion
+Typhoid,spinning_movements,yellow_urine,throat_irritation,altered_sensorium,red_sore_around_nose,itching,diarrhoea,shivering
+Bronchial Asthma,swollen_blood_vessels,runny_nose,muscle_pain,weight_loss,internal_itching,,,
+Hepatitis B,lethargy,blister,mood_swings,patches_in_throat,dark_urine,,,
+Hepatitis E,pain_during_bowel_movements,cold_hands_and_feets,chills,weakness_in_limbs,loss_of_smell,,,
+Hepatitis B,lethargy,dark_urine,mood_swings,patches_in_throat,blister,,,
+Osteoarthristis,anxiety,burning_micturition,weight_gain,swelling_joints,,,,
+Diabetes,pain_in_anal_region,lethargy,drying_and_tingling_lips,pain_during_bowel_movements,,,,
+Bronchial Asthma,internal_itching,weight_loss,muscle_pain,runny_nose,swollen_blood_vessels,,,
+Osteoarthristis,anxiety,swelling_joints,burning_micturition,weight_gain,,,,
+Varicose veins,blackheads,blood_in_sputum,burning_micturition,dizziness,sunken_eyes,restlessness,,
+Hepatitis C,yellowing_of_eyes,swollen_legs,congestion,receiving_unsterile_injections,silver_like_dusting,,,
+Arthritis,mood_swings,bloody_stool,malaise,mucoid_sputum,lethargy,small_dents_in_nails,weight_gain,mild_fever
+Peptic ulcer disease,continuous_feel_of_urine,vomiting,toxic_look_(typhos),swollen_legs,,,,
+Acne,polyuria,swollen_legs,knee_pain,swelling_joints,obesity,sinus_pressure,nausea,irritation_in_anus
+Peptic ulcer disease,swollen_legs,continuous_feel_of_urine,toxic_look_(typhos),vomiting,,,,
+Hepatitis B,mood_swings,patches_in_throat,blister,lethargy,dark_urine,,,
+Tuberculosis,unsteadiness,brittle_nails,bloody_stool,weight_loss,,,,
+Hepatitis E,weakness_in_limbs,loss_of_smell,cold_hands_and_feets,chills,pain_during_bowel_movements,,,
+Hepatitis D,headache,stiff_neck,dizziness,redness_of_eyes,history_of_alcohol_consumption,altered_sensorium,family_history,palpitations
+Common Cold,congestion,blurred_and_distorted_vision,rusty_sputum,nausea,silver_like_dusting,neck_pain,high_fever,
+Common Cold,high_fever,silver_like_dusting,neck_pain,congestion,blurred_and_distorted_vision,rusty_sputum,nausea,
+Hepatitis A,depression,muscle_weakness,irritation_in_anus,weight_gain,,,,
+Drug Reaction,loss_of_smell,chest_pain,belly_pain,diarrhoea,breathlessness,cough,,
+Impetigo,breathlessness,hip_joint_pain,history_of_alcohol_consumption,knee_pain,nodal_skin_eruptions,,,
+Vertigo,receiving_blood_transfusion,lethargy,dizziness,muscle_wasting,,,,
+Alcoholic hepatitis,weight_loss,anxiety,mood_swings,pain_during_bowel_movements,,,,
+GERD,chest_pain,pain_in_anal_region,throat_irritation,joint_pain,,,,
+Hypothyroidism,rusty_sputum,bloody_stool,yellowing_of_eyes,inflammatory_nails,blister,continuous_sneezing,cough,congestion
+Impetigo,breathlessness,hip_joint_pain,nodal_skin_eruptions,history_of_alcohol_consumption,knee_pain,,,
+Common Cold,silver_like_dusting,rusty_sputum,blurred_and_distorted_vision,congestion,high_fever,neck_pain,nausea,
+Hypothyroidism,continuous_sneezing,congestion,inflammatory_nails,yellowing_of_eyes,bloody_stool,blister,rusty_sputum,cough
+Chicken pox,swollen_blood_vessels,indigestion,cramps,dehydration,nodal_skin_eruptions,scurring,bladder_discomfort,slurred_speech
+Acne,polyuria,knee_pain,swollen_legs,nausea,irritation_in_anus,sinus_pressure,obesity,swelling_joints
+Chronic cholestasis,mild_fever,bladder_discomfort,weakness_in_limbs,receiving_blood_transfusion,receiving_unsterile_injections,brittle_nails,prominent_veins_on_calf,skin_rash
+Hypoglycemia,blurred_and_distorted_vision,slurred_speech,diarrhoea,blister,receiving_unsterile_injections,chest_pain,,
+AIDS,yellowish_skin,slurred_speech,phlegm,lethargy,mood_swings,red_spots_over_body,depression,
+Dengue,swollen_legs,painful_walking,swelling_of_stomach,mild_fever,itching,knee_pain,sweating,
+Bronchial Asthma,weight_loss,swollen_blood_vessels,runny_nose,internal_itching,muscle_pain,,,
+Hepatitis E,chills,cold_hands_and_feets,loss_of_smell,weakness_in_limbs,pain_during_bowel_movements,,,
+AIDS,slurred_speech,lethargy,yellowish_skin,phlegm,depression,mood_swings,red_spots_over_body,
+Common Cold,silver_like_dusting,high_fever,rusty_sputum,nausea,blurred_and_distorted_vision,congestion,neck_pain,
+Hepatitis D,redness_of_eyes,dizziness,headache,altered_sensorium,stiff_neck,family_history,palpitations,history_of_alcohol_consumption
+Migraine,acidity,family_history,pain_during_bowel_movements,swelling_joints,,,,
+Jaundice,yellow_crust_ooze,weakness_in_limbs,cough,burning_micturition,dehydration,pain_behind_the_eyes,,
+Paralysis (brain hemorrhage),dizziness,coma,family_history,swollen_legs,pain_behind_the_eyes,,,
+Drug Reaction,chest_pain,loss_of_smell,belly_pain,cough,breathlessness,diarrhoea,,
+AIDS,lethargy,slurred_speech,red_spots_over_body,mood_swings,depression,phlegm,yellowish_skin,
+Chicken pox,cramps,bladder_discomfort,indigestion,swollen_blood_vessels,dehydration,nodal_skin_eruptions,slurred_speech,scurring
+Acne,nausea,swollen_legs,knee_pain,swelling_joints,sinus_pressure,polyuria,obesity,irritation_in_anus
+Dengue,swollen_legs,mild_fever,knee_pain,painful_walking,sweating,itching,swelling_of_stomach,
+Hyperthyroidism,yellowing_of_eyes,itching,belly_pain,painful_walking,swollen_legs,anxiety,watering_from_eyes,
+Cervical spondylosis,polyuria,extra_marital_contacts,pus_filled_pimples,cold_hands_and_feets,congestion,swelling_joints,,
+Paralysis (brain hemorrhage),dizziness,swollen_legs,pain_behind_the_eyes,coma,family_history,,,
+Dimorphic hemmorhoids(piles),dizziness,mucoid_sputum,loss_of_smell,anxiety,sunken_eyes,fatigue,sweating,
+Paralysis (brain hemorrhage),dizziness,swollen_legs,coma,pain_behind_the_eyes,family_history,,,
+Hepatitis B,patches_in_throat,blister,dark_urine,mood_swings,lethargy,,,
+Hypothyroidism,inflammatory_nails,cough,yellowing_of_eyes,continuous_sneezing,rusty_sputum,bloody_stool,congestion,blister
+Hypothyroidism,continuous_sneezing,congestion,rusty_sputum,blister,inflammatory_nails,bloody_stool,yellowing_of_eyes,cough
+Jaundice,dehydration,weakness_in_limbs,pain_behind_the_eyes,yellow_crust_ooze,cough,burning_micturition,,
+Drug Reaction,cough,belly_pain,diarrhoea,chest_pain,loss_of_smell,breathlessness,,
+AIDS,red_spots_over_body,lethargy,phlegm,yellowish_skin,depression,mood_swings,slurred_speech,
+Tuberculosis,weight_loss,unsteadiness,bloody_stool,brittle_nails,,,,
+Hypertension,acute_liver_failure,blackheads,belly_pain,puffy_face_and_eyes,weakness_in_limbs,loss_of_balance,yellow_urine,neck_pain
+Diabetes,pain_during_bowel_movements,lethargy,pain_in_anal_region,drying_and_tingling_lips,,,,
+Dengue,mild_fever,painful_walking,swollen_legs,itching,swelling_of_stomach,sweating,knee_pain,
+Hepatitis D,redness_of_eyes,stiff_neck,family_history,headache,altered_sensorium,history_of_alcohol_consumption,palpitations,dizziness
+Bronchial Asthma,runny_nose,internal_itching,weight_loss,muscle_pain,swollen_blood_vessels,,,
+Hypothyroidism,rusty_sputum,bloody_stool,yellowing_of_eyes,continuous_sneezing,inflammatory_nails,blister,cough,congestion
+Drug Reaction,cough,loss_of_smell,belly_pain,chest_pain,diarrhoea,breathlessness,,
+Bronchial Asthma,weight_loss,internal_itching,swollen_blood_vessels,muscle_pain,runny_nose,,,
+Heart attack,blurred_and_distorted_vision,swelled_lymph_nodes,receiving_unsterile_injections,pain_behind_the_eyes,prominent_veins_on_calf,,,
+Hypothyroidism,blister,cough,yellowing_of_eyes,continuous_sneezing,inflammatory_nails,bloody_stool,congestion,rusty_sputum
+Diabetes,pain_during_bowel_movements,lethargy,drying_and_tingling_lips,pain_in_anal_region,,,,
+Alcoholic hepatitis,pain_during_bowel_movements,weight_loss,anxiety,mood_swings,,,,
+GERD,chest_pain,throat_irritation,joint_pain,pain_in_anal_region,,,,
+Hypertension,belly_pain,acute_liver_failure,puffy_face_and_eyes,weakness_in_limbs,yellow_urine,neck_pain,blackheads,loss_of_balance
+Vertigo,dizziness,muscle_wasting,lethargy,receiving_blood_transfusion,,,,
+Varicose veins,blood_in_sputum,restlessness,burning_micturition,blackheads,dizziness,sunken_eyes,,
+Hypothyroidism,yellowing_of_eyes,continuous_sneezing,cough,congestion,bloody_stool,blister,rusty_sputum,inflammatory_nails
+Allergy,receiving_unsterile_injections,irregular_sugar_level,acidity,breathlessness,stomach_pain,,,
+Hepatitis D,history_of_alcohol_consumption,stiff_neck,dizziness,altered_sensorium,family_history,palpitations,headache,redness_of_eyes
+Hepatitis D,headache,dizziness,history_of_alcohol_consumption,stiff_neck,redness_of_eyes,family_history,altered_sensorium,palpitations
+Hepatitis A,muscle_weakness,weight_gain,irritation_in_anus,depression,,,,
+Hepatitis A,irritation_in_anus,weight_gain,muscle_weakness,depression,,,,
+Allergy,acidity,irregular_sugar_level,breathlessness,receiving_unsterile_injections,stomach_pain,,,
+Pneumonia,receiving_unsterile_injections,stomach_bleeding,internal_itching,lack_of_concentration,,,,
+Varicose veins,burning_micturition,blood_in_sputum,dizziness,restlessness,blackheads,sunken_eyes,,
+Hepatitis B,blister,mood_swings,patches_in_throat,lethargy,dark_urine,,,
+Paralysis (brain hemorrhage),swollen_legs,pain_behind_the_eyes,family_history,coma,dizziness,,,
+Hypertension,loss_of_balance,acute_liver_failure,weakness_in_limbs,puffy_face_and_eyes,neck_pain,blackheads,yellow_urine,belly_pain
+Osteoarthristis,anxiety,weight_gain,burning_micturition,swelling_joints,,,,
+Chronic cholestasis,receiving_unsterile_injections,mild_fever,prominent_veins_on_calf,receiving_blood_transfusion,weakness_in_limbs,brittle_nails,bladder_discomfort,skin_rash
+Acne,nausea,knee_pain,obesity,irritation_in_anus,swollen_legs,swelling_joints,sinus_pressure,polyuria
+Hepatitis D,redness_of_eyes,altered_sensorium,dizziness,headache,history_of_alcohol_consumption,family_history,palpitations,stiff_neck
+Cervical spondylosis,cold_hands_and_feets,congestion,polyuria,swelling_joints,pus_filled_pimples,extra_marital_contacts,,
+Arthritis,bloody_stool,lethargy,mucoid_sputum,mild_fever,malaise,mood_swings,small_dents_in_nails,weight_gain
+Paralysis (brain hemorrhage),swollen_legs,pain_behind_the_eyes,family_history,dizziness,coma,,,
+Vertigo,muscle_wasting,receiving_blood_transfusion,lethargy,dizziness,,,,
+Hepatitis E,weakness_in_limbs,chills,cold_hands_and_feets,loss_of_smell,pain_during_bowel_movements,,,
+Hepatitis A,depression,irritation_in_anus,muscle_weakness,weight_gain,,,,
+Drug Reaction,diarrhoea,loss_of_smell,cough,breathlessness,chest_pain,belly_pain,,
+Hypertension,weakness_in_limbs,yellow_urine,acute_liver_failure,blackheads,neck_pain,loss_of_balance,puffy_face_and_eyes,belly_pain
+Bronchial Asthma,runny_nose,weight_loss,swollen_blood_vessels,muscle_pain,internal_itching,,,
+Heart attack,pain_behind_the_eyes,blurred_and_distorted_vision,prominent_veins_on_calf,swelled_lymph_nodes,receiving_unsterile_injections,,,
+Cervical spondylosis,polyuria,extra_marital_contacts,cold_hands_and_feets,pus_filled_pimples,swelling_joints,congestion,,
+Dengue,swollen_legs,knee_pain,itching,mild_fever,painful_walking,swelling_of_stomach,sweating,
+Allergy,acidity,receiving_unsterile_injections,irregular_sugar_level,stomach_pain,breathlessness,,,
+Drug Reaction,cough,belly_pain,chest_pain,diarrhoea,loss_of_smell,breathlessness,,
+Malaria,abnormal_menstruation,receiving_unsterile_injections,cold_hands_and_feets,belly_pain,mild_fever,,,
+Hypothyroidism,blister,yellowing_of_eyes,inflammatory_nails,bloody_stool,continuous_sneezing,rusty_sputum,congestion,cough
+Malaria,belly_pain,cold_hands_and_feets,mild_fever,receiving_unsterile_injections,abnormal_menstruation,,,
+Migraine,pain_during_bowel_movements,swelling_joints,family_history,acidity,,,,
+Common Cold,blurred_and_distorted_vision,nausea,high_fever,neck_pain,congestion,rusty_sputum,silver_like_dusting,
+Diabetes,pain_during_bowel_movements,drying_and_tingling_lips,pain_in_anal_region,lethargy,,,,
+Varicose veins,blood_in_sputum,sunken_eyes,blackheads,restlessness,dizziness,burning_micturition,,
+Varicose veins,dizziness,blood_in_sputum,blackheads,sunken_eyes,restlessness,burning_micturition,,
+Chronic cholestasis,receiving_blood_transfusion,weakness_in_limbs,mild_fever,receiving_unsterile_injections,bladder_discomfort,skin_rash,prominent_veins_on_calf,brittle_nails
+Diabetes,pain_during_bowel_movements,lethargy,pain_in_anal_region,drying_and_tingling_lips,,,,
+Fungal infection,joint_pain,neck_pain,enlarged_thyroid,fast_heart_rate,,,,
+Peptic ulcer disease,swollen_legs,toxic_look_(typhos),vomiting,continuous_feel_of_urine,,,,
+Hypertension,weakness_in_limbs,belly_pain,neck_pain,acute_liver_failure,blackheads,yellow_urine,puffy_face_and_eyes,loss_of_balance
+Hypothyroidism,cough,rusty_sputum,continuous_sneezing,inflammatory_nails,bloody_stool,yellowing_of_eyes,blister,congestion
+Chicken pox,bladder_discomfort,scurring,slurred_speech,dehydration,swollen_blood_vessels,indigestion,nodal_skin_eruptions,cramps
+Chronic cholestasis,bladder_discomfort,receiving_unsterile_injections,skin_rash,receiving_blood_transfusion,weakness_in_limbs,brittle_nails,mild_fever,prominent_veins_on_calf
+Impetigo,hip_joint_pain,history_of_alcohol_consumption,knee_pain,breathlessness,nodal_skin_eruptions,,,
+Diabetes,pain_in_anal_region,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,,,,
+Urinary tract infection,sunken_eyes,swelling_joints,weight_loss,swollen_legs,nodal_skin_eruptions,pus_filled_pimples,congestion,
+Chicken pox,cramps,indigestion,scurring,dehydration,slurred_speech,swollen_blood_vessels,bladder_discomfort,nodal_skin_eruptions
+Common Cold,blurred_and_distorted_vision,congestion,high_fever,rusty_sputum,neck_pain,nausea,silver_like_dusting,
+Allergy,receiving_unsterile_injections,acidity,stomach_pain,irregular_sugar_level,breathlessness,,,
+Cervical spondylosis,extra_marital_contacts,pus_filled_pimples,polyuria,cold_hands_and_feets,congestion,swelling_joints,,
+Urinary tract infection,congestion,pus_filled_pimples,sunken_eyes,swollen_legs,swelling_joints,weight_loss,nodal_skin_eruptions,
+Fungal infection,joint_pain,neck_pain,enlarged_thyroid,fast_heart_rate,,,,
+Diabetes,pain_in_anal_region,pain_during_bowel_movements,lethargy,drying_and_tingling_lips,,,,
+Cervical spondylosis,polyuria,cold_hands_and_feets,congestion,extra_marital_contacts,pus_filled_pimples,swelling_joints,,
+Pneumonia,lack_of_concentration,stomach_bleeding,receiving_unsterile_injections,internal_itching,,,,
+Typhoid,altered_sensorium,itching,throat_irritation,spinning_movements,red_sore_around_nose,diarrhoea,shivering,yellow_urine
+Chicken pox,scurring,dehydration,bladder_discomfort,nodal_skin_eruptions,cramps,slurred_speech,swollen_blood_vessels,indigestion
+Peptic ulcer disease,swollen_legs,vomiting,continuous_feel_of_urine,toxic_look_(typhos),,,,
+Hepatitis B,lethargy,dark_urine,blister,patches_in_throat,mood_swings,,,
+Pneumonia,internal_itching,lack_of_concentration,stomach_bleeding,receiving_unsterile_injections,,,,
+Arthritis,mood_swings,bloody_stool,malaise,lethargy,mild_fever,weight_gain,mucoid_sputum,small_dents_in_nails
+Fungal infection,joint_pain,enlarged_thyroid,fast_heart_rate,neck_pain,,,,
+Hepatitis A,depression,muscle_weakness,irritation_in_anus,weight_gain,,,,
+Gastroenteritis,brittle_nails,irritability,painful_walking,belly_pain,,,,
+Chicken pox,cramps,dehydration,scurring,bladder_discomfort,slurred_speech,indigestion,swollen_blood_vessels,nodal_skin_eruptions
+Hepatitis B,blister,patches_in_throat,lethargy,mood_swings,dark_urine,,,
+Diabetes,drying_and_tingling_lips,pain_in_anal_region,pain_during_bowel_movements,lethargy,,,,
+Hypothyroidism,continuous_sneezing,congestion,cough,inflammatory_nails,yellowing_of_eyes,bloody_stool,blister,rusty_sputum
+Hypoglycemia,receiving_unsterile_injections,chest_pain,slurred_speech,blister,blurred_and_distorted_vision,diarrhoea,,
+Bronchial Asthma,internal_itching,runny_nose,muscle_pain,swollen_blood_vessels,weight_loss,,,
+Bronchial Asthma,swollen_blood_vessels,runny_nose,weight_loss,internal_itching,muscle_pain,,,
+Varicose veins,burning_micturition,blackheads,sunken_eyes,blood_in_sputum,dizziness,restlessness,,
+Hypothyroidism,congestion,blister,cough,inflammatory_nails,rusty_sputum,bloody_stool,yellowing_of_eyes,continuous_sneezing
+Diabetes,lethargy,pain_in_anal_region,pain_during_bowel_movements,drying_and_tingling_lips,,,,
+Peptic ulcer disease,swollen_legs,toxic_look_(typhos),vomiting,continuous_feel_of_urine,,,,
+Hypertension,blackheads,acute_liver_failure,yellow_urine,neck_pain,weakness_in_limbs,puffy_face_and_eyes,loss_of_balance,belly_pain
+Hypoglycemia,chest_pain,diarrhoea,receiving_unsterile_injections,blurred_and_distorted_vision,blister,slurred_speech,,
+Hypothyroidism,yellowing_of_eyes,rusty_sputum,congestion,blister,inflammatory_nails,continuous_sneezing,bloody_stool,cough
+Acne,polyuria,swollen_legs,irritation_in_anus,swelling_joints,knee_pain,sinus_pressure,nausea,obesity
+Varicose veins,sunken_eyes,burning_micturition,dizziness,blackheads,restlessness,blood_in_sputum,,
+Psoriasis,mood_swings,passage_of_gases,swollen_extremeties,neck_pain,muscle_pain,,,
+Paralysis (brain hemorrhage),coma,family_history,pain_behind_the_eyes,dizziness,swollen_legs,,,
+Drug Reaction,loss_of_smell,chest_pain,diarrhoea,breathlessness,belly_pain,cough,,
+Chicken pox,dehydration,slurred_speech,bladder_discomfort,swollen_blood_vessels,scurring,indigestion,cramps,nodal_skin_eruptions
+Alcoholic hepatitis,pain_during_bowel_movements,weight_loss,anxiety,mood_swings,,,,
+Diabetes,pain_during_bowel_movements,pain_in_anal_region,drying_and_tingling_lips,lethargy,,,,
+Hepatitis A,irritation_in_anus,depression,weight_gain,muscle_weakness,,,,
+Hepatitis E,cold_hands_and_feets,chills,pain_during_bowel_movements,loss_of_smell,weakness_in_limbs,,,
+Alcoholic hepatitis,weight_loss,pain_during_bowel_movements,anxiety,mood_swings,,,,
+Peptic ulcer disease,swollen_legs,toxic_look_(typhos),continuous_feel_of_urine,vomiting,,,,
+Pneumonia,internal_itching,receiving_unsterile_injections,stomach_bleeding,lack_of_concentration,,,,
+Hyperthyroidism,painful_walking,anxiety,swollen_legs,watering_from_eyes,yellowing_of_eyes,itching,belly_pain,
+Typhoid,diarrhoea,itching,spinning_movements,altered_sensorium,red_sore_around_nose,throat_irritation,yellow_urine,shivering
+Hepatitis A,depression,weight_gain,irritation_in_anus,muscle_weakness,,,,
+Typhoid,yellow_urine,diarrhoea,altered_sensorium,red_sore_around_nose,spinning_movements,shivering,itching,throat_irritation
+Common Cold,high_fever,blurred_and_distorted_vision,nausea,silver_like_dusting,rusty_sputum,neck_pain,congestion,
+Acne,irritation_in_anus,knee_pain,sinus_pressure,polyuria,swelling_joints,swollen_legs,nausea,obesity
+Migraine,swelling_joints,pain_during_bowel_movements,family_history,acidity,,,,
+Peptic ulcer disease,toxic_look_(typhos),continuous_feel_of_urine,swollen_legs,vomiting,,,,
+Hepatitis B,lethargy,patches_in_throat,blister,mood_swings,dark_urine,,,
+Psoriasis,mood_swings,muscle_pain,passage_of_gases,swollen_extremeties,neck_pain,,,
+Migraine,family_history,acidity,swelling_joints,pain_during_bowel_movements,,,,
+AIDS,lethargy,mood_swings,red_spots_over_body,phlegm,yellowish_skin,depression,slurred_speech,
+Fungal infection,joint_pain,fast_heart_rate,neck_pain,enlarged_thyroid,,,,
+Heart attack,blurred_and_distorted_vision,pain_behind_the_eyes,prominent_veins_on_calf,swelled_lymph_nodes,receiving_unsterile_injections,,,
+Tuberculosis,weight_loss,brittle_nails,unsteadiness,bloody_stool,,,,
+Gastroenteritis,brittle_nails,painful_walking,irritability,belly_pain,,,,
+Allergy,receiving_unsterile_injections,stomach_pain,acidity,breathlessness,irregular_sugar_level,,,
+Bronchial Asthma,weight_loss,muscle_pain,runny_nose,swollen_blood_vessels,internal_itching,,,
+Peptic ulcer disease,vomiting,toxic_look_(typhos),continuous_feel_of_urine,swollen_legs,,,,
+Varicose veins,dizziness,restlessness,burning_micturition,sunken_eyes,blackheads,blood_in_sputum,,
+Dimorphic hemmorhoids(piles),sunken_eyes,loss_of_smell,anxiety,sweating,fatigue,dizziness,mucoid_sputum,
+Cervical spondylosis,pus_filled_pimples,congestion,cold_hands_and_feets,extra_marital_contacts,polyuria,swelling_joints,,
+Fungal infection,fast_heart_rate,enlarged_thyroid,neck_pain,joint_pain,,,,
+Common Cold,blurred_and_distorted_vision,nausea,congestion,silver_like_dusting,rusty_sputum,neck_pain,high_fever,
+Tuberculosis,unsteadiness,weight_loss,bloody_stool,brittle_nails,,,,
+Jaundice,cough,yellow_crust_ooze,pain_behind_the_eyes,burning_micturition,weakness_in_limbs,dehydration,,
+Arthritis,bloody_stool,mucoid_sputum,small_dents_in_nails,malaise,lethargy,mood_swings,weight_gain,mild_fever
+Psoriasis,passage_of_gases,mood_swings,swollen_extremeties,muscle_pain,neck_pain,,,
+Allergy,stomach_pain,breathlessness,acidity,receiving_unsterile_injections,irregular_sugar_level,,,
+Varicose veins,sunken_eyes,blackheads,burning_micturition,dizziness,blood_in_sputum,restlessness,,
+Acne,swelling_joints,sinus_pressure,nausea,obesity,irritation_in_anus,knee_pain,swollen_legs,polyuria
+Common Cold,nausea,rusty_sputum,congestion,neck_pain,silver_like_dusting,blurred_and_distorted_vision,high_fever,
+Typhoid,red_sore_around_nose,altered_sensorium,throat_irritation,itching,shivering,yellow_urine,spinning_movements,diarrhoea
+Urinary tract infection,nodal_skin_eruptions,congestion,weight_loss,sunken_eyes,swollen_legs,swelling_joints,pus_filled_pimples,
+Paralysis (brain hemorrhage),dizziness,pain_behind_the_eyes,coma,swollen_legs,family_history,,,
+Chicken pox,nodal_skin_eruptions,swollen_blood_vessels,indigestion,scurring,dehydration,cramps,slurred_speech,bladder_discomfort
+Pneumonia,internal_itching,lack_of_concentration,receiving_unsterile_injections,stomach_bleeding,,,,
+Diabetes,pain_during_bowel_movements,lethargy,pain_in_anal_region,drying_and_tingling_lips,,,,
+Hepatitis C,receiving_unsterile_injections,yellowing_of_eyes,congestion,silver_like_dusting,swollen_legs,,,
+Bronchial Asthma,internal_itching,swollen_blood_vessels,runny_nose,muscle_pain,weight_loss,,,
+Dimorphic hemmorhoids(piles),sunken_eyes,sweating,anxiety,loss_of_smell,fatigue,mucoid_sputum,dizziness,
+Arthritis,weight_gain,bloody_stool,lethargy,mood_swings,mild_fever,mucoid_sputum,malaise,small_dents_in_nails
+Hypertension,neck_pain,acute_liver_failure,yellow_urine,weakness_in_limbs,loss_of_balance,blackheads,puffy_face_and_eyes,belly_pain
+Bronchial Asthma,internal_itching,swollen_blood_vessels,muscle_pain,weight_loss,runny_nose,,,
+Cervical spondylosis,swelling_joints,congestion,polyuria,cold_hands_and_feets,pus_filled_pimples,extra_marital_contacts,,
+Hepatitis C,congestion,receiving_unsterile_injections,silver_like_dusting,yellowing_of_eyes,swollen_legs,,,
+Hepatitis E,loss_of_smell,cold_hands_and_feets,weakness_in_limbs,chills,pain_during_bowel_movements,,,
+Bronchial Asthma,internal_itching,runny_nose,muscle_pain,swollen_blood_vessels,weight_loss,,,
+Pneumonia,stomach_bleeding,receiving_unsterile_injections,internal_itching,lack_of_concentration,,,,
+Hypoglycemia,slurred_speech,blurred_and_distorted_vision,blister,receiving_unsterile_injections,diarrhoea,chest_pain,,
+Fungal infection,neck_pain,enlarged_thyroid,fast_heart_rate,joint_pain,,,,
+Hepatitis B,blister,lethargy,dark_urine,patches_in_throat,mood_swings,,,
+Tuberculosis,weight_loss,brittle_nails,bloody_stool,unsteadiness,,,,
+Vertigo,receiving_blood_transfusion,muscle_wasting,lethargy,dizziness,,,,
+Common Cold,congestion,nausea,high_fever,silver_like_dusting,rusty_sputum,blurred_and_distorted_vision,neck_pain,
+Hepatitis D,dizziness,altered_sensorium,palpitations,stiff_neck,history_of_alcohol_consumption,family_history,headache,redness_of_eyes
+Dimorphic hemmorhoids(piles),fatigue,dizziness,anxiety,mucoid_sputum,loss_of_smell,sunken_eyes,sweating,
+Tuberculosis,bloody_stool,unsteadiness,brittle_nails,weight_loss,,,,
+GERD,throat_irritation,chest_pain,pain_in_anal_region,joint_pain,,,,
+Hypoglycemia,chest_pain,blurred_and_distorted_vision,receiving_unsterile_injections,blister,diarrhoea,slurred_speech,,
+Hypoglycemia,chest_pain,slurred_speech,blurred_and_distorted_vision,receiving_unsterile_injections,blister,diarrhoea,,
+Malaria,receiving_unsterile_injections,mild_fever,belly_pain,abnormal_menstruation,cold_hands_and_feets,,,
+Chronic cholestasis,weakness_in_limbs,brittle_nails,receiving_blood_transfusion,receiving_unsterile_injections,skin_rash,bladder_discomfort,prominent_veins_on_calf,mild_fever
+Diabetes,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,pain_in_anal_region,,,,
+Heart attack,receiving_unsterile_injections,blurred_and_distorted_vision,swelled_lymph_nodes,prominent_veins_on_calf,pain_behind_the_eyes,,,
+Hepatitis D,redness_of_eyes,altered_sensorium,headache,stiff_neck,dizziness,palpitations,family_history,history_of_alcohol_consumption
+Hypoglycemia,diarrhoea,blurred_and_distorted_vision,slurred_speech,receiving_unsterile_injections,blister,chest_pain,,
+Hepatitis E,chills,loss_of_smell,weakness_in_limbs,cold_hands_and_feets,pain_during_bowel_movements,,,
+Common Cold,silver_like_dusting,nausea,rusty_sputum,neck_pain,blurred_and_distorted_vision,high_fever,congestion,
+Paralysis (brain hemorrhage),family_history,dizziness,pain_behind_the_eyes,swollen_legs,coma,,,
+Acne,swelling_joints,obesity,polyuria,irritation_in_anus,swollen_legs,sinus_pressure,knee_pain,nausea
+Dimorphic hemmorhoids(piles),loss_of_smell,anxiety,fatigue,sunken_eyes,dizziness,mucoid_sputum,sweating,
+Hypothyroidism,inflammatory_nails,yellowing_of_eyes,bloody_stool,continuous_sneezing,rusty_sputum,blister,cough,congestion
+Heart attack,prominent_veins_on_calf,swelled_lymph_nodes,pain_behind_the_eyes,blurred_and_distorted_vision,receiving_unsterile_injections,,,
+Arthritis,weight_gain,mild_fever,mucoid_sputum,bloody_stool,lethargy,malaise,small_dents_in_nails,mood_swings
+Vertigo,muscle_wasting,receiving_blood_transfusion,dizziness,lethargy,,,,
+Diabetes,pain_during_bowel_movements,pain_in_anal_region,drying_and_tingling_lips,lethargy,,,,
+Hepatitis A,weight_gain,depression,muscle_weakness,irritation_in_anus,,,,
+Bronchial Asthma,runny_nose,weight_loss,muscle_pain,swollen_blood_vessels,internal_itching,,,
+Typhoid,altered_sensorium,red_sore_around_nose,itching,throat_irritation,shivering,spinning_movements,diarrhoea,yellow_urine
+Drug Reaction,belly_pain,chest_pain,loss_of_smell,cough,breathlessness,diarrhoea,,
+Vertigo,dizziness,lethargy,muscle_wasting,receiving_blood_transfusion,,,,
+Varicose veins,restlessness,blood_in_sputum,blackheads,dizziness,sunken_eyes,burning_micturition,,
+Dimorphic hemmorhoids(piles),dizziness,loss_of_smell,fatigue,anxiety,sunken_eyes,mucoid_sputum,sweating,
+Alcoholic hepatitis,weight_loss,pain_during_bowel_movements,mood_swings,anxiety,,,,
+Osteoarthristis,burning_micturition,swelling_joints,weight_gain,anxiety,,,,
+Dengue,swollen_legs,swelling_of_stomach,itching,knee_pain,painful_walking,mild_fever,sweating,
+Arthritis,lethargy,bloody_stool,weight_gain,mucoid_sputum,small_dents_in_nails,malaise,mood_swings,mild_fever
+Vertigo,lethargy,dizziness,receiving_blood_transfusion,muscle_wasting,,,,
+Diabetes,lethargy,pain_in_anal_region,pain_during_bowel_movements,drying_and_tingling_lips,,,,
+Paralysis (brain hemorrhage),dizziness,family_history,swollen_legs,coma,pain_behind_the_eyes,,,
+Tuberculosis,bloody_stool,brittle_nails,weight_loss,unsteadiness,,,,
+Hepatitis C,swollen_legs,silver_like_dusting,congestion,yellowing_of_eyes,receiving_unsterile_injections,,,
+Hypoglycemia,blister,slurred_speech,receiving_unsterile_injections,chest_pain,blurred_and_distorted_vision,diarrhoea,,
+AIDS,mood_swings,slurred_speech,yellowish_skin,phlegm,lethargy,red_spots_over_body,depression,
+Peptic ulcer disease,toxic_look_(typhos),swollen_legs,vomiting,continuous_feel_of_urine,,,,
+Hypertension,weakness_in_limbs,blackheads,puffy_face_and_eyes,loss_of_balance,neck_pain,yellow_urine,belly_pain,acute_liver_failure
+Hepatitis A,irritation_in_anus,muscle_weakness,depression,weight_gain,,,,
+Bronchial Asthma,muscle_pain,weight_loss,internal_itching,runny_nose,swollen_blood_vessels,,,
+Diabetes,drying_and_tingling_lips,lethargy,pain_in_anal_region,pain_during_bowel_movements,,,,
+Urinary tract infection,nodal_skin_eruptions,congestion,swelling_joints,swollen_legs,pus_filled_pimples,weight_loss,sunken_eyes,
+Chronic cholestasis,prominent_veins_on_calf,bladder_discomfort,weakness_in_limbs,receiving_blood_transfusion,receiving_unsterile_injections,skin_rash,brittle_nails,mild_fever
+Common Cold,high_fever,rusty_sputum,neck_pain,silver_like_dusting,congestion,nausea,blurred_and_distorted_vision,
+Malaria,mild_fever,cold_hands_and_feets,abnormal_menstruation,receiving_unsterile_injections,belly_pain,,,
+Dimorphic hemmorhoids(piles),anxiety,mucoid_sputum,dizziness,sunken_eyes,loss_of_smell,sweating,fatigue,
+Osteoarthristis,weight_gain,burning_micturition,anxiety,swelling_joints,,,,
+Arthritis,mild_fever,mood_swings,malaise,weight_gain,lethargy,bloody_stool,small_dents_in_nails,mucoid_sputum
+Fungal infection,fast_heart_rate,neck_pain,enlarged_thyroid,joint_pain,,,,
+Urinary tract infection,weight_loss,swelling_joints,sunken_eyes,swollen_legs,pus_filled_pimples,congestion,nodal_skin_eruptions,
+Acne,sinus_pressure,irritation_in_anus,polyuria,nausea,knee_pain,obesity,swelling_joints,swollen_legs
+Tuberculosis,bloody_stool,weight_loss,brittle_nails,unsteadiness,,,,
+Pneumonia,stomach_bleeding,lack_of_concentration,receiving_unsterile_injections,internal_itching,,,,
+Hepatitis C,congestion,silver_like_dusting,yellowing_of_eyes,receiving_unsterile_injections,swollen_legs,,,
+Hepatitis B,lethargy,dark_urine,mood_swings,patches_in_throat,blister,,,
+Allergy,acidity,stomach_pain,receiving_unsterile_injections,breathlessness,irregular_sugar_level,,,
+Fungal infection,enlarged_thyroid,fast_heart_rate,neck_pain,joint_pain,,,,
+Common Cold,nausea,congestion,silver_like_dusting,high_fever,neck_pain,blurred_and_distorted_vision,rusty_sputum,
+Drug Reaction,chest_pain,belly_pain,loss_of_smell,breathlessness,diarrhoea,cough,,
+Hepatitis D,stiff_neck,palpitations,redness_of_eyes,altered_sensorium,family_history,history_of_alcohol_consumption,dizziness,headache
+Diabetes,lethargy,pain_during_bowel_movements,drying_and_tingling_lips,pain_in_anal_region,,,,
+Dimorphic hemmorhoids(piles),loss_of_smell,sweating,mucoid_sputum,anxiety,dizziness,sunken_eyes,fatigue,
+Cervical spondylosis,congestion,pus_filled_pimples,extra_marital_contacts,swelling_joints,polyuria,cold_hands_and_feets,,
+Jaundice,dehydration,burning_micturition,pain_behind_the_eyes,weakness_in_limbs,yellow_crust_ooze,cough,,
+Urinary tract infection,nodal_skin_eruptions,sunken_eyes,congestion,pus_filled_pimples,swollen_legs,swelling_joints,weight_loss,
+Vertigo,muscle_wasting,lethargy,dizziness,receiving_blood_transfusion,,,,
+Vertigo,receiving_blood_transfusion,lethargy,dizziness,muscle_wasting,,,,
+Drug Reaction,diarrhoea,breathlessness,cough,belly_pain,loss_of_smell,chest_pain,,
+Cervical spondylosis,polyuria,congestion,extra_marital_contacts,swelling_joints,cold_hands_and_feets,pus_filled_pimples,,
+Fungal infection,enlarged_thyroid,joint_pain,neck_pain,fast_heart_rate,,,,
+Hepatitis B,blister,lethargy,patches_in_throat,dark_urine,mood_swings,,,
+Hypoglycemia,blister,receiving_unsterile_injections,slurred_speech,diarrhoea,chest_pain,blurred_and_distorted_vision,,
+Jaundice,dehydration,pain_behind_the_eyes,burning_micturition,cough,yellow_crust_ooze,weakness_in_limbs,,
+Hepatitis B,blister,patches_in_throat,dark_urine,mood_swings,lethargy,,,
+Peptic ulcer disease,continuous_feel_of_urine,vomiting,swollen_legs,toxic_look_(typhos),,,,
+Pneumonia,internal_itching,receiving_unsterile_injections,lack_of_concentration,stomach_bleeding,,,,
+Hypertension,blackheads,weakness_in_limbs,neck_pain,belly_pain,loss_of_balance,acute_liver_failure,yellow_urine,puffy_face_and_eyes
+Allergy,acidity,breathlessness,irregular_sugar_level,receiving_unsterile_injections,stomach_pain,,,
+AIDS,depression,mood_swings,phlegm,yellowish_skin,lethargy,red_spots_over_body,slurred_speech,
+Drug Reaction,loss_of_smell,chest_pain,diarrhoea,breathlessness,belly_pain,cough,,
+Acne,sinus_pressure,swollen_legs,knee_pain,irritation_in_anus,polyuria,nausea,swelling_joints,obesity
+Gastroenteritis,painful_walking,irritability,brittle_nails,belly_pain,,,,
+Hepatitis A,muscle_weakness,irritation_in_anus,depression,weight_gain,,,,
+Chronic cholestasis,skin_rash,weakness_in_limbs,receiving_unsterile_injections,bladder_discomfort,mild_fever,brittle_nails,prominent_veins_on_calf,receiving_blood_transfusion
+Jaundice,cough,yellow_crust_ooze,pain_behind_the_eyes,weakness_in_limbs,dehydration,burning_micturition,,
+Heart attack,pain_behind_the_eyes,swelled_lymph_nodes,prominent_veins_on_calf,blurred_and_distorted_vision,receiving_unsterile_injections,,,
+Heart attack,prominent_veins_on_calf,blurred_and_distorted_vision,receiving_unsterile_injections,pain_behind_the_eyes,swelled_lymph_nodes,,,
+AIDS,red_spots_over_body,slurred_speech,lethargy,phlegm,depression,mood_swings,yellowish_skin,
+Vertigo,dizziness,receiving_blood_transfusion,lethargy,muscle_wasting,,,,
+Hepatitis D,stiff_neck,family_history,redness_of_eyes,dizziness,history_of_alcohol_consumption,palpitations,altered_sensorium,headache
+Gastroenteritis,brittle_nails,painful_walking,irritability,belly_pain,,,,
+Hepatitis A,depression,muscle_weakness,irritation_in_anus,weight_gain,,,,
+Hepatitis A,irritation_in_anus,weight_gain,depression,muscle_weakness,,,,
+Hepatitis A,depression,weight_gain,muscle_weakness,irritation_in_anus,,,,
+Fungal infection,fast_heart_rate,neck_pain,joint_pain,enlarged_thyroid,,,,
+Hyperthyroidism,belly_pain,swollen_legs,yellowing_of_eyes,itching,anxiety,watering_from_eyes,painful_walking,
+Cervical spondylosis,swelling_joints,extra_marital_contacts,polyuria,cold_hands_and_feets,congestion,pus_filled_pimples,,
+Varicose veins,blackheads,dizziness,sunken_eyes,restlessness,blood_in_sputum,burning_micturition,,
+Psoriasis,swollen_extremeties,passage_of_gases,mood_swings,muscle_pain,neck_pain,,,
+AIDS,depression,lethargy,phlegm,red_spots_over_body,mood_swings,yellowish_skin,slurred_speech,
+Jaundice,yellow_crust_ooze,dehydration,weakness_in_limbs,pain_behind_the_eyes,burning_micturition,cough,,
+Hepatitis C,swollen_legs,silver_like_dusting,congestion,yellowing_of_eyes,receiving_unsterile_injections,,,
+Fungal infection,enlarged_thyroid,fast_heart_rate,joint_pain,neck_pain,,,,
+Hepatitis D,altered_sensorium,palpitations,headache,family_history,stiff_neck,dizziness,history_of_alcohol_consumption,redness_of_eyes
+Impetigo,hip_joint_pain,knee_pain,history_of_alcohol_consumption,nodal_skin_eruptions,breathlessness,,,
+Cervical spondylosis,polyuria,extra_marital_contacts,cold_hands_and_feets,pus_filled_pimples,swelling_joints,congestion,,
