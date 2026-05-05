@@ -1,0 +1,185 @@
+# 🏥 Healthcare Disease Prediction System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-Analysis-green?style=for-the-badge">
+</p>
+
+---
+
+## 📌 Project Overview
+
+This project is an **end-to-end healthcare analytics and disease prediction system** combining:
+
+- 🤖 Machine Learning  
+- 🗄️ SQL Data Analysis  
+- 📊 Power BI Dashboard  
+- 🌐 Streamlit Web Application  
+
+👉 It predicts diseases based on symptoms and provides actionable insights.
+
+---
+
+## 🎯 Objectives
+
+- Predict diseases using Machine Learning  
+- Analyze healthcare data using SQL  
+- Visualize insights using Power BI  
+- Build a real-time prediction interface  
+
+---
+
+## 📸 Project Screenshots
+
+### 🖥️ Streamlit UI
+![Streamlit UI](images/streamlit_UI.png)
+
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 📈 Accuracy Chart
+![Accuracy](images/accuracy.png)
+
+### 🔍 Confusion Matrix
+![Confusion Matrix](images/confusion.png)
+
+---
+
+## 🧠 Machine Learning Module
+
+✔ Data Cleaning & Preprocessing  
+✔ Exploratory Data Analysis (EDA)  
+✔ Multiple Models:
+
+- Random Forest  
+- Decision Tree  
+- Naive Bayes  
+- Support Vector Machine  
+- K-Nearest Neighbors  
+- Gradient Boosting  
+
+✔ Model Evaluation:
+
+- Accuracy  
+- Precision  
+- Recall  
+- F1 Score  
+
+✔ Hyperparameter tuning using GridSearchCV  
+✔ Final system gives **Top 3 disease predictions**
+
+---
+
+## 🗄️ SQL Module
+
+✔ Disease & symptom analysis  
+✔ Joins, subqueries, aggregations  
+✔ Stored procedures  
+✔ Data quality checks  
+✔ Cross-table insights  
+
+---
+
+## 📊 Power BI Dashboard
+
+✔ Disease distribution  
+✔ Top symptoms analysis  
+✔ Severity insights  
+✔ Gender & region analysis  
+✔ Dynamic filters (Slicers)  
+
+---
+
+## 💻 Streamlit Web App
+
+✔ User-friendly UI  
+✔ Symptom selection  
+✔ Predict button  
+✔ Top 3 predictions with confidence  
+
+---
+
+## 📁 Project Structure
+
+
+Healthcare-Disease-Prediction-System/
+│
+├── app.py
+├── requirements.txt
+│
+├── dataset.csv
+├── symptom_precaution.csv
+│
+├── model.pkl
+├── encoders.pkl
+├── disease_encoder.pkl
+├── most_common.pkl
+│
+├── Healthcare_Analysis.ipynb
+├── healthcare_dashboard.pbix
+├── healthcare_queries.sql
+│
+├── images/
+│ ├── streamlit_UI.png
+│ ├── dashboard.png
+│ ├── accuracy.png
+│ ├── confusion.png
+│
+└── README.md
+
+
+---
+
+## ⚙️ Technologies Used
+
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (MySQL)
+- Power BI
+- Streamlit
+
+---
+
+## 🚀 How to Run
+
+### 1️⃣ Install Dependencies
+
+python -m pip install -r requirements.txt
+
+### 2️⃣ Run Streamlit App
+
+streamlit run app.py
+
+### 3️⃣ Open in Browser
+
+http://localhost:8501
+
+---
+
+## 📈 Key Insights
+
+* Strong relationship between symptoms & diseases
+* Some diseases show higher symptom complexity
+* Visualization improves understanding
+* ML enhances prediction accuracy
+
+--- 
+## 👨‍💻 Author 
+
+Prakhar Mathur 
+
+---
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## ⭐ Conclusion
+
+This project demonstrates how **data analytics + machine learning + visualization tools** can be integrated to build a complete healthcare decision-support system.
+
+ ---
